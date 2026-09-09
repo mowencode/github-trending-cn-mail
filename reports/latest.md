@@ -1,61 +1,61 @@
-# GitHub 热门项目日报｜2026-09-08
+# GitHub 热门项目日报｜2026-09-09
 
-> 数据更新时间：2026-09-08 04:23 UTC。近期新增 Star 来自 GitHub Trending；快照增量是与上次采集的总 Star 差值。
+> 数据更新时间：2026-09-09 04:28 UTC。近期新增 Star 来自 GitHub Trending；快照增量是与上次采集的总 Star 差值。
 
 ## 最近一周热门 Top 10
 
-### 1. [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)
-- 语言：TypeScript｜总 Star：4,077｜本周新增：2,430｜较上次 +317
-- 项目简介：Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.
-
-### 2. [tt-a1i/archify](https://github.com/tt-a1i/archify)
-- 语言：JavaScript｜总 Star：53,317｜本周新增：14,946｜较上次 +2116
-- 项目简介：Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-
-### 3. [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
-- 语言：TypeScript｜总 Star：32,960｜本周新增：2,040｜较上次 +102
-- 项目简介：runs anywhere. uses anything
-
-### 4. [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
-- 语言：TypeScript｜总 Star：33,176｜本周新增：6,934｜较上次 +629
-- 项目简介：Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
-
-### 5. [google-research/timesfm](https://github.com/google-research/timesfm)
-- 语言：Python｜总 Star：31,862｜本周新增：3,506｜较上次 +184
-- 项目简介：TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-
-### 6. [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
-- 语言：Python｜总 Star：59,600｜本周新增：3,633｜较上次 +372
-- 项目简介：🧠 Train a 64M-parameter LLM from scratch in just 2h!
-
-### 7. [pollen-robotics/microduck_rl](https://github.com/pollen-robotics/microduck_rl)
-- 语言：Python｜总 Star：1,913｜本周新增：828｜较上次 +76
-- 项目简介：RL training environments for Microduck (mjlab)
-
-### 8. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
-- 语言：Python｜总 Star：20,777｜本周新增：7,916｜较上次 +777
-- 项目简介：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-
-### 9. [fmtlib/fmt](https://github.com/fmtlib/fmt)
-- 语言：C++｜总 Star：25,655｜本周新增：1,909｜较上次 +28
+### 1. [fmtlib/fmt](https://github.com/fmtlib/fmt)
+- 语言：C++｜总 Star：25,685｜本周新增：1,935｜较上次 +30
 - 项目简介：A modern formatting library
 
-### 10. [affaan-m/ECC](https://github.com/affaan-m/ECC)
-- 语言：JavaScript｜总 Star：253,040｜本周新增：7,735｜较上次 +1392
+### 2. [affaan-m/ECC](https://github.com/affaan-m/ECC)
+- 语言：JavaScript｜总 Star：254,448｜本周新增：8,527｜较上次 +1408
 - 项目简介：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+
+### 3. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+- 语言：JavaScript｜总 Star：132,407｜本周新增：12,598｜较上次 +1218
+- 项目简介：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+
+### 4. [tt-a1i/archify](https://github.com/tt-a1i/archify)
+- 语言：JavaScript｜总 Star：55,000｜本周新增：13,318｜较上次 +1683
+- 项目简介：Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+
+### 5. [blader/humanizer](https://github.com/blader/humanizer)
+- 语言：Python｜总 Star：45,513｜本周新增：5,790｜首次记录
+- 项目简介：Agent skill that removes signs of AI-generated writing from text
+
+### 6. [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
+- 语言：Python｜总 Star：47,103｜本周新增：2,430｜较上次 +249
+- 项目简介：Academic Research Skills for Claude Code: research → write → review → revise → finalize
+
+### 7. [mattpocock/skills](https://github.com/mattpocock/skills)
+- 语言：Shell｜总 Star：257,099｜本周新增：13,419｜首次记录
+- 项目简介：Skills for Real Engineers. Straight from my .agents directory.
+
+### 8. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+- 语言：JavaScript｜总 Star：48,936｜本周新增：2,141｜较上次 +681
+- 项目简介：Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+
+### 9. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+- 语言：TypeScript｜总 Star：51,393｜本周新增：1,014｜首次记录
+- 项目简介：Chrome DevTools for coding agents
+
+### 10. [llvm/llvm-project](https://github.com/llvm/llvm-project)
+- 语言：LLVM｜总 Star：40,349｜本周新增：304｜首次记录
+- 项目简介：The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
 ## 今日热门 Top 10
 
-1. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) — TypeScript，今日新增 474 Star
-2. [microsoft/markitdown](https://github.com/microsoft/markitdown) — Python，今日新增 886 Star
-3. [mksglu/context-mode](https://github.com/mksglu/context-mode) — TypeScript，今日新增 96 Star
-4. [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) — JavaScript，今日新增 135 Star
-5. [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) — TypeScript，今日新增 197 Star
-6. [affaan-m/ECC](https://github.com/affaan-m/ECC) — JavaScript，今日新增 1,897 Star
-7. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) — JavaScript，今日新增 580 Star
-8. [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) — Python，今日新增 517 Star
-9. [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) — TypeScript，今日新增 501 Star
-10. [bytedance/deer-flow](https://github.com/bytedance/deer-flow) — Python，今日新增 195 Star
+1. [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) — Python，今日新增 656 Star
+2. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) — HTML，今日新增 710 Star
+3. [openai/skills](https://github.com/openai/skills) — Python，今日新增 490 Star
+4. [affaan-m/ECC](https://github.com/affaan-m/ECC) — JavaScript，今日新增 1,427 Star
+5. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) — TypeScript，今日新增 2,627 Star
+6. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) — JavaScript，今日新增 666 Star
+7. [obra/superpowers](https://github.com/obra/superpowers) — Shell，今日新增 452 Star
+8. [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) — 未注明，今日新增 333 Star
+9. [microsoft/markitdown](https://github.com/microsoft/markitdown) — Python，今日新增 2,047 Star
+10. [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) — JavaScript，今日新增 871 Star
 
 ## 口径说明
 
