@@ -1,136 +1,136 @@
 {
-  "generated_at": "2026-09-13T04:36:35.043878+00:00",
+  "generated_at": "2026-09-14T04:44:05.201364+00:00",
   "daily": [
     {
       "rank": 1,
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": 30190,
+      "period_stars": 868,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 2,
+      "name": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "language": "TypeScript",
+      "stars": 5292,
+      "period_stars": 191,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 3,
       "name": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars": 30238,
-      "period_stars": 2265,
+      "stars": 32243,
+      "period_stars": 2680,
       "period": "daily"
     },
     {
-      "rank": 2,
+      "rank": 4,
+      "name": "tech-leads-club/agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "language": "TypeScript",
+      "stars": 5756,
+      "period_stars": 265,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 5,
       "name": "melgarafael/DeskcommCRM",
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
-      "stars": 1868,
-      "period_stars": 504,
+      "stars": 2291,
+      "period_stars": 432,
       "period": "daily",
-      "snapshot_delta": 447
+      "snapshot_delta": 423
     },
     {
-      "rank": 3,
+      "rank": 6,
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 58632,
+      "period_stars": 380,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 7,
       "name": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
       "language": "JavaScript",
-      "stars": 65520,
-      "period_stars": 217,
+      "stars": 66193,
+      "period_stars": 706,
       "period": "daily",
-      "snapshot_delta": null
-    },
-    {
-      "rank": 4,
-      "name": "nab138/iloader",
-      "url": "https://github.com/nab138/iloader",
-      "description": "User friendly sideloader",
-      "language": "TypeScript",
-      "stars": 3115,
-      "period_stars": 209,
-      "period": "daily",
-      "snapshot_delta": 176
-    },
-    {
-      "rank": 5,
-      "name": "Flowseal/zapret-discord-youtube",
-      "url": "https://github.com/Flowseal/zapret-discord-youtube",
-      "description": "",
-      "language": "Batchfile",
-      "stars": 33219,
-      "period_stars": 65,
-      "period": "daily",
-      "snapshot_delta": null
-    },
-    {
-      "rank": 6,
-      "name": "jihe520/MathModelAgent",
-      "url": "https://github.com/jihe520/MathModelAgent",
-      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
-      "language": "Python",
-      "stars": 5175,
-      "period_stars": 262,
-      "period": "daily",
-      "snapshot_delta": 276
-    },
-    {
-      "rank": 7,
-      "name": "Sonarr/Sonarr",
-      "url": "https://github.com/Sonarr/Sonarr",
-      "description": "Smart PVR for newsgroup and bittorrent users.",
-      "language": "C#",
-      "stars": 15956,
-      "period_stars": 227,
-      "period": "daily",
-      "snapshot_delta": 194
+      "snapshot_delta": 673
     },
     {
       "rank": 8,
-      "name": "alsk1992/CloddsBot",
-      "url": "https://github.com/alsk1992/CloddsBot",
-      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
-      "language": "TypeScript",
-      "stars": 2553,
-      "period_stars": 376,
+      "name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "stars": 24089,
+      "period_stars": 590,
       "period": "daily",
-      "snapshot_delta": 343
+      "snapshot_delta": 563
     },
     {
       "rank": 9,
+      "name": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "language": "Python",
+      "stars": 7865,
+      "period_stars": 487,
+      "period": "daily",
+      "snapshot_delta": 506
+    },
+    {
+      "rank": 10,
       "name": "yuliskov/SmartTube",
       "url": "https://github.com/yuliskov/SmartTube",
       "description": "Browse media content with your own rules on Android TV",
       "language": "Java",
-      "stars": 33245,
-      "period_stars": 136,
+      "stars": 33496,
+      "period_stars": 233,
       "period": "daily",
-      "snapshot_delta": null
-    },
-    {
-      "rank": 10,
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-      "language": "Python",
-      "stars": 137696,
-      "period_stars": 230,
-      "period": "daily",
-      "snapshot_delta": null
+      "snapshot_delta": 251
     },
     {
       "rank": 11,
-      "name": "p1neappleXpress/OpenFlux",
-      "url": "https://github.com/p1neappleXpress/OpenFlux",
-      "description": "Network stack research tool. TCP tunnel with pluggable transports.",
-      "language": "Go",
-      "stars": 1422,
-      "period_stars": 355,
+      "name": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Run parallel research agents with any model",
+      "language": "Rust",
+      "stars": 2188,
+      "period_stars": 289,
       "period": "daily",
-      "snapshot_delta": 234
+      "snapshot_delta": null
     },
     {
       "rank": 12,
-      "name": "armory3d/armorpaint",
-      "url": "https://github.com/armory3d/armorpaint",
-      "description": "Graphics Creation Tools",
-      "language": "C",
-      "stars": 4932,
-      "period_stars": 237,
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 27290,
+      "period_stars": 2632,
       "period": "daily",
-      "snapshot_delta": 174
+      "snapshot_delta": null
     },
     {
       "rank": 13,
@@ -138,41 +138,74 @@
       "url": "https://github.com/SnailSploit/Claude-Red",
       "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "language": "Python",
-      "stars": 3671,
-      "period_stars": 113,
+      "stars": 4252,
+      "period_stars": 506,
       "period": "daily",
-      "snapshot_delta": null
+      "snapshot_delta": 581
     },
     {
       "rank": 14,
-      "name": "multimodal-art-projection/YuE",
-      "url": "https://github.com/multimodal-art-projection/YuE",
-      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "language": "Python",
-      "stars": 7359,
-      "period_stars": 210,
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 23733,
+      "period_stars": 443,
       "period": "daily",
       "snapshot_delta": null
     },
     {
       "rank": 15,
-      "name": "max-sixty/worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "name": "jihe520/MathModelAgent",
+      "url": "https://github.com/jihe520/MathModelAgent",
+      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "language": "Python",
+      "stars": 5428,
+      "period_stars": 246,
+      "period": "daily",
+      "snapshot_delta": 253
+    },
+    {
+      "rank": 16,
+      "name": "tonhowtf/omniget",
+      "url": "https://github.com/tonhowtf/omniget",
+      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
       "language": "Rust",
-      "stars": 7296,
-      "period_stars": 54,
+      "stars": 11882,
+      "period_stars": 507,
       "period": "daily",
       "snapshot_delta": null
     },
     {
-      "rank": 16,
-      "name": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "language": "Go",
-      "stars": 23526,
-      "period_stars": 189,
+      "rank": 17,
+      "name": "jiji262/douyin-downloader",
+      "url": "https://github.com/jiji262/douyin-downloader",
+      "description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。",
+      "language": "Python",
+      "stars": 11500,
+      "period_stars": 452,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 18,
+      "name": "Swordfish90/cool-retro-term",
+      "url": "https://github.com/Swordfish90/cool-retro-term",
+      "description": "A good looking terminal emulator which mimics the old cathode display...",
+      "language": "QML",
+      "stars": 26272,
+      "period_stars": 57,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 19,
+      "name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "stars": 165627,
+      "period_stars": 152,
       "period": "daily",
       "snapshot_delta": null
     }
@@ -184,10 +217,10 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars": 43549,
-      "period_stars": 15924,
+      "stars": 44556,
+      "period_stars": 16740,
       "period": "weekly",
-      "snapshot_delta": 1381
+      "snapshot_delta": 1007
     },
     {
       "rank": 2,
@@ -195,10 +228,10 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": 257197,
-      "period_stars": 8086,
+      "stars": 257850,
+      "period_stars": 7264,
       "period": "weekly",
-      "snapshot_delta": 592
+      "snapshot_delta": 653
     },
     {
       "rank": 3,
@@ -206,21 +239,21 @@
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars": 6552,
-      "period_stars": 1120,
+      "stars": 6634,
+      "period_stars": 1181,
       "period": "weekly",
-      "snapshot_delta": 86
+      "snapshot_delta": 82
     },
     {
       "rank": 4,
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars": 136738,
-      "period_stars": 9272,
+      "stars": 32243,
+      "period_stars": 12931,
       "period": "weekly",
-      "snapshot_delta": 808
+      "snapshot_delta": 2005
     },
     {
       "rank": 5,
@@ -228,21 +261,21 @@
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars": 22407,
-      "period_stars": 1936,
+      "stars": 22681,
+      "period_stars": 2102,
       "period": "weekly",
-      "snapshot_delta": 176
+      "snapshot_delta": 274
     },
     {
       "rank": 6,
-      "name": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars": 30238,
-      "period_stars": 10510,
+      "stars": 137524,
+      "period_stars": 8444,
       "period": "weekly",
-      "snapshot_delta": 2887
+      "snapshot_delta": 786
     },
     {
       "rank": 7,
@@ -250,10 +283,10 @@
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars": 59841,
-      "period_stars": 10442,
+      "stars": 61093,
+      "period_stars": 10132,
       "period": "weekly",
-      "snapshot_delta": 1120
+      "snapshot_delta": 1252
     },
     {
       "rank": 8,
@@ -261,10 +294,10 @@
       "url": "https://github.com/openai/skills",
       "description": "Skills Catalog for Codex",
       "language": "Python",
-      "stars": 27031,
-      "period_stars": 1579,
+      "stars": 27117,
+      "period_stars": 1622,
       "period": "weekly",
-      "snapshot_delta": 91
+      "snapshot_delta": 86
     },
     {
       "rank": 9,
@@ -272,131 +305,131 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars": 49250,
-      "period_stars": 5124,
+      "stars": 49693,
+      "period_stars": 5146,
       "period": "weekly",
-      "snapshot_delta": 199
+      "snapshot_delta": 443
     },
     {
       "rank": 10,
-      "name": "humanlayer/skills",
-      "url": "https://github.com/humanlayer/skills",
-      "description": "",
-      "language": "TypeScript",
-      "stars": 3920,
-      "period_stars": 1380,
-      "period": "weekly",
-      "snapshot_delta": 119
-    },
-    {
-      "rank": 11,
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "stars": 38921,
-      "period_stars": 7409,
-      "period": "weekly",
-      "snapshot_delta": 376
-    },
-    {
-      "rank": 12,
-      "name": "blader/humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "language": "Python",
-      "stars": 47384,
-      "period_stars": 4069,
-      "period": "weekly",
-      "snapshot_delta": 390
-    },
-    {
-      "rank": 13,
       "name": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars": 183310,
-      "period_stars": 4823,
+      "stars": 183684,
+      "period_stars": 5191,
       "period": "weekly",
-      "snapshot_delta": 593
+      "snapshot_delta": 374
     },
     {
-      "rank": 14,
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "stars": 51771,
-      "period_stars": 783,
-      "period": "weekly",
-      "snapshot_delta": 81
-    },
-    {
-      "rank": 15,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars": 260591,
-      "period_stars": 8960,
-      "period": "weekly",
-      "snapshot_delta": 695
-    },
-    {
-      "rank": 16,
-      "name": "coreyhaines31/marketingskills",
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "language": "JavaScript",
-      "stars": 49852,
-      "period_stars": 2822,
-      "period": "weekly",
-      "snapshot_delta": 195
-    },
-    {
-      "rank": 17,
-      "name": "THU-MAIC/OpenMAIC",
-      "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "language": "TypeScript",
-      "stars": 36246,
-      "period_stars": 4417,
-      "period": "weekly",
-      "snapshot_delta": 310
-    },
-    {
-      "rank": 18,
-      "name": "Tencent/WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "language": "Go",
-      "stars": 22698,
-      "period_stars": 1168,
-      "period": "weekly",
-      "snapshot_delta": 293
-    },
-    {
-      "rank": 19,
-      "name": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "description": "A library of agent skills for CAD, CAE and CAM",
-      "language": "Python",
-      "stars": 15471,
-      "period_stars": 1011,
-      "period": "weekly",
-      "snapshot_delta": null
-    },
-    {
-      "rank": 20,
+      "rank": 11,
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 285861,
-      "period_stars": 3938,
+      "stars": 286283,
+      "period_stars": 4068,
       "period": "weekly",
-      "snapshot_delta": 421
+      "snapshot_delta": 422
+    },
+    {
+      "rank": 12,
+      "name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars": 50039,
+      "period_stars": 2678,
+      "period": "weekly",
+      "snapshot_delta": 187
+    },
+    {
+      "rank": 13,
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 51864,
+      "period_stars": 736,
+      "period": "weekly",
+      "snapshot_delta": 93
+    },
+    {
+      "rank": 14,
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 39339,
+      "period_stars": 7129,
+      "period": "weekly",
+      "snapshot_delta": 418
+    },
+    {
+      "rank": 15,
+      "name": "THU-MAIC/OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "stars": 36548,
+      "period_stars": 4202,
+      "period": "weekly",
+      "snapshot_delta": 302
+    },
+    {
+      "rank": 16,
+      "name": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "stars": 22939,
+      "period_stars": 1302,
+      "period": "weekly",
+      "snapshot_delta": 241
+    },
+    {
+      "rank": 17,
+      "name": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "stars": 47748,
+      "period_stars": 3673,
+      "period": "weekly",
+      "snapshot_delta": 364
+    },
+    {
+      "rank": 18,
+      "name": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "stars": 7548,
+      "period_stars": 588,
+      "period": "weekly",
+      "snapshot_delta": 252
+    },
+    {
+      "rank": 19,
+      "name": "humanlayer/skills",
+      "url": "https://github.com/humanlayer/skills",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 4017,
+      "period_stars": 1004,
+      "period": "weekly",
+      "snapshot_delta": 97
+    },
+    {
+      "rank": 20,
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "A library of agent skills for CAD, CAE and CAM",
+      "language": "Python",
+      "stars": 15636,
+      "period_stars": 1054,
+      "period": "weekly",
+      "snapshot_delta": 165
     },
     {
       "rank": 21,
@@ -404,34 +437,45 @@
       "url": "https://github.com/petergyang/no-ai-slop",
       "description": "Removes 20+ patterns of AI slop from any piece of writing.",
       "language": "Python",
-      "stars": 8712,
-      "period_stars": 1307,
+      "stars": 9258,
+      "period_stars": 1668,
+      "period": "weekly",
+      "snapshot_delta": 546
+    },
+    {
+      "rank": 22,
+      "name": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars": 136494,
+      "period_stars": 2642,
+      "period": "weekly",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 23,
+      "name": "kunchenguid/firstmate",
+      "url": "https://github.com/kunchenguid/firstmate",
+      "description": "Talk to one agent. Ship with a crew.",
+      "language": "Shell",
+      "stars": 5791,
+      "period_stars": 778,
       "period": "weekly",
       "snapshot_delta": null
     }
   ],
   "repos": [
     {
-      "rank": 20,
+      "rank": 11,
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 285861,
-      "period_stars": 3938,
+      "stars": 286283,
+      "period_stars": 4068,
       "period": "weekly",
-      "snapshot_delta": 421
-    },
-    {
-      "rank": 15,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars": 260591,
-      "period_stars": 8960,
-      "period": "weekly",
-      "snapshot_delta": 695
+      "snapshot_delta": 422
     },
     {
       "rank": 2,
@@ -439,54 +483,65 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": 257197,
-      "period_stars": 8086,
+      "stars": 257850,
+      "period_stars": 7264,
       "period": "weekly",
-      "snapshot_delta": 592
+      "snapshot_delta": 653
     },
     {
-      "rank": 13,
+      "rank": 10,
       "name": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars": 183310,
-      "period_stars": 4823,
+      "stars": 183684,
+      "period_stars": 5191,
       "period": "weekly",
-      "snapshot_delta": 593
+      "snapshot_delta": 374
     },
     {
-      "rank": 10,
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "rank": 19,
+      "name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
       "language": "Python",
-      "stars": 137696,
-      "period_stars": 230,
+      "stars": 165627,
+      "period_stars": 152,
       "period": "daily",
       "snapshot_delta": null
     },
     {
-      "rank": 4,
+      "rank": 6,
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars": 136738,
-      "period_stars": 9272,
+      "stars": 137524,
+      "period_stars": 8444,
       "period": "weekly",
-      "snapshot_delta": 808
+      "snapshot_delta": 786
     },
     {
-      "rank": 3,
+      "rank": 22,
+      "name": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars": 136494,
+      "period_stars": 2642,
+      "period": "weekly",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 7,
       "name": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
       "language": "JavaScript",
-      "stars": 65520,
-      "period_stars": 217,
+      "stars": 66193,
+      "period_stars": 706,
       "period": "daily",
-      "snapshot_delta": null
+      "snapshot_delta": 673
     },
     {
       "rank": 7,
@@ -494,32 +549,43 @@
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars": 59841,
-      "period_stars": 10442,
+      "stars": 61093,
+      "period_stars": 10132,
       "period": "weekly",
-      "snapshot_delta": 1120
+      "snapshot_delta": 1252
     },
     {
-      "rank": 14,
+      "rank": 6,
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 58632,
+      "period_stars": 380,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 13,
       "name": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars": 51771,
-      "period_stars": 783,
+      "stars": 51864,
+      "period_stars": 736,
       "period": "weekly",
-      "snapshot_delta": 81
+      "snapshot_delta": 93
     },
     {
-      "rank": 16,
+      "rank": 12,
       "name": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
-      "stars": 49852,
-      "period_stars": 2822,
+      "stars": 50039,
+      "period_stars": 2678,
       "period": "weekly",
-      "snapshot_delta": 195
+      "snapshot_delta": 187
     },
     {
       "rank": 9,
@@ -527,21 +593,21 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars": 49250,
-      "period_stars": 5124,
+      "stars": 49693,
+      "period_stars": 5146,
       "period": "weekly",
-      "snapshot_delta": 199
+      "snapshot_delta": 443
     },
     {
-      "rank": 12,
+      "rank": 17,
       "name": "blader/humanizer",
       "url": "https://github.com/blader/humanizer",
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
-      "stars": 47384,
-      "period_stars": 4069,
+      "stars": 47748,
+      "period_stars": 3673,
       "period": "weekly",
-      "snapshot_delta": 390
+      "snapshot_delta": 364
     },
     {
       "rank": 1,
@@ -549,65 +615,76 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars": 43549,
-      "period_stars": 15924,
+      "stars": 44556,
+      "period_stars": 16740,
       "period": "weekly",
-      "snapshot_delta": 1381
+      "snapshot_delta": 1007
     },
     {
-      "rank": 11,
+      "rank": 14,
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars": 38921,
-      "period_stars": 7409,
+      "stars": 39339,
+      "period_stars": 7129,
       "period": "weekly",
-      "snapshot_delta": 376
+      "snapshot_delta": 418
     },
     {
-      "rank": 17,
+      "rank": 15,
       "name": "THU-MAIC/OpenMAIC",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
-      "stars": 36246,
-      "period_stars": 4417,
+      "stars": 36548,
+      "period_stars": 4202,
       "period": "weekly",
-      "snapshot_delta": 310
+      "snapshot_delta": 302
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "yuliskov/SmartTube",
       "url": "https://github.com/yuliskov/SmartTube",
       "description": "Browse media content with your own rules on Android TV",
       "language": "Java",
-      "stars": 33245,
-      "period_stars": 136,
+      "stars": 33496,
+      "period_stars": 233,
       "period": "daily",
-      "snapshot_delta": null
+      "snapshot_delta": 251
     },
     {
-      "rank": 5,
-      "name": "Flowseal/zapret-discord-youtube",
-      "url": "https://github.com/Flowseal/zapret-discord-youtube",
-      "description": "",
-      "language": "Batchfile",
-      "stars": 33219,
-      "period_stars": 65,
-      "period": "daily",
-      "snapshot_delta": null
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "name": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars": 30238,
-      "period_stars": 10510,
+      "stars": 32243,
+      "period_stars": 12931,
       "period": "weekly",
-      "snapshot_delta": 2887
+      "snapshot_delta": 2005
+    },
+    {
+      "rank": 1,
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": 30190,
+      "period_stars": 868,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 12,
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 27290,
+      "period_stars": 2632,
+      "period": "daily",
+      "snapshot_delta": null
     },
     {
       "rank": 8,
@@ -615,32 +692,54 @@
       "url": "https://github.com/openai/skills",
       "description": "Skills Catalog for Codex",
       "language": "Python",
-      "stars": 27031,
-      "period_stars": 1579,
+      "stars": 27117,
+      "period_stars": 1622,
       "period": "weekly",
-      "snapshot_delta": 91
+      "snapshot_delta": 86
     },
     {
-      "rank": 16,
-      "name": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "language": "Go",
-      "stars": 23526,
-      "period_stars": 189,
+      "rank": 18,
+      "name": "Swordfish90/cool-retro-term",
+      "url": "https://github.com/Swordfish90/cool-retro-term",
+      "description": "A good looking terminal emulator which mimics the old cathode display...",
+      "language": "QML",
+      "stars": 26272,
+      "period_stars": 57,
       "period": "daily",
       "snapshot_delta": null
     },
     {
-      "rank": 18,
+      "rank": 8,
+      "name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "stars": 24089,
+      "period_stars": 590,
+      "period": "daily",
+      "snapshot_delta": 563
+    },
+    {
+      "rank": 14,
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 23733,
+      "period_stars": 443,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 16,
       "name": "Tencent/WeKnora",
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
-      "stars": 22698,
-      "period_stars": 1168,
+      "stars": 22939,
+      "period_stars": 1302,
       "period": "weekly",
-      "snapshot_delta": 293
+      "snapshot_delta": 241
     },
     {
       "rank": 5,
@@ -648,31 +747,42 @@
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars": 22407,
-      "period_stars": 1936,
+      "stars": 22681,
+      "period_stars": 2102,
       "period": "weekly",
-      "snapshot_delta": 176
+      "snapshot_delta": 274
     },
     {
-      "rank": 7,
-      "name": "Sonarr/Sonarr",
-      "url": "https://github.com/Sonarr/Sonarr",
-      "description": "Smart PVR for newsgroup and bittorrent users.",
-      "language": "C#",
-      "stars": 15956,
-      "period_stars": 227,
-      "period": "daily",
-      "snapshot_delta": 194
-    },
-    {
-      "rank": 19,
+      "rank": 20,
       "name": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "A library of agent skills for CAD, CAE and CAM",
       "language": "Python",
-      "stars": 15471,
-      "period_stars": 1011,
+      "stars": 15636,
+      "period_stars": 1054,
       "period": "weekly",
+      "snapshot_delta": 165
+    },
+    {
+      "rank": 16,
+      "name": "tonhowtf/omniget",
+      "url": "https://github.com/tonhowtf/omniget",
+      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+      "language": "Rust",
+      "stars": 11882,
+      "period_stars": 507,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 17,
+      "name": "jiji262/douyin-downloader",
+      "url": "https://github.com/jiji262/douyin-downloader",
+      "description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。",
+      "language": "Python",
+      "stars": 11500,
+      "period_stars": 452,
+      "period": "daily",
       "snapshot_delta": null
     },
     {
@@ -681,32 +791,32 @@
       "url": "https://github.com/petergyang/no-ai-slop",
       "description": "Removes 20+ patterns of AI slop from any piece of writing.",
       "language": "Python",
-      "stars": 8712,
-      "period_stars": 1307,
+      "stars": 9258,
+      "period_stars": 1668,
       "period": "weekly",
-      "snapshot_delta": null
+      "snapshot_delta": 546
     },
     {
-      "rank": 14,
+      "rank": 9,
       "name": "multimodal-art-projection/YuE",
       "url": "https://github.com/multimodal-art-projection/YuE",
       "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
       "language": "Python",
-      "stars": 7359,
-      "period_stars": 210,
+      "stars": 7865,
+      "period_stars": 487,
       "period": "daily",
-      "snapshot_delta": null
+      "snapshot_delta": 506
     },
     {
-      "rank": 15,
+      "rank": 18,
       "name": "max-sixty/worktrunk",
       "url": "https://github.com/max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
-      "stars": 7296,
-      "period_stars": 54,
-      "period": "daily",
-      "snapshot_delta": null
+      "stars": 7548,
+      "period_stars": 588,
+      "period": "weekly",
+      "snapshot_delta": 252
     },
     {
       "rank": 3,
@@ -714,43 +824,54 @@
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars": 6552,
-      "period_stars": 1120,
+      "stars": 6634,
+      "period_stars": 1181,
       "period": "weekly",
-      "snapshot_delta": 86
+      "snapshot_delta": 82
     },
     {
-      "rank": 6,
+      "rank": 23,
+      "name": "kunchenguid/firstmate",
+      "url": "https://github.com/kunchenguid/firstmate",
+      "description": "Talk to one agent. Ship with a crew.",
+      "language": "Shell",
+      "stars": 5791,
+      "period_stars": 778,
+      "period": "weekly",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 4,
+      "name": "tech-leads-club/agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "language": "TypeScript",
+      "stars": 5756,
+      "period_stars": 265,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 15,
       "name": "jihe520/MathModelAgent",
       "url": "https://github.com/jihe520/MathModelAgent",
       "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
       "language": "Python",
-      "stars": 5175,
-      "period_stars": 262,
+      "stars": 5428,
+      "period_stars": 246,
       "period": "daily",
-      "snapshot_delta": 276
+      "snapshot_delta": 253
     },
     {
-      "rank": 12,
-      "name": "armory3d/armorpaint",
-      "url": "https://github.com/armory3d/armorpaint",
-      "description": "Graphics Creation Tools",
-      "language": "C",
-      "stars": 4932,
-      "period_stars": 237,
-      "period": "daily",
-      "snapshot_delta": 174
-    },
-    {
-      "rank": 10,
-      "name": "humanlayer/skills",
-      "url": "https://github.com/humanlayer/skills",
-      "description": "",
+      "rank": 2,
+      "name": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
       "language": "TypeScript",
-      "stars": 3920,
-      "period_stars": 1380,
-      "period": "weekly",
-      "snapshot_delta": 119
+      "stars": 5292,
+      "period_stars": 191,
+      "period": "daily",
+      "snapshot_delta": null
     },
     {
       "rank": 13,
@@ -758,54 +879,43 @@
       "url": "https://github.com/SnailSploit/Claude-Red",
       "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "language": "Python",
-      "stars": 3671,
-      "period_stars": 113,
+      "stars": 4252,
+      "period_stars": 506,
       "period": "daily",
-      "snapshot_delta": null
+      "snapshot_delta": 581
     },
     {
-      "rank": 4,
-      "name": "nab138/iloader",
-      "url": "https://github.com/nab138/iloader",
-      "description": "User friendly sideloader",
+      "rank": 19,
+      "name": "humanlayer/skills",
+      "url": "https://github.com/humanlayer/skills",
+      "description": "",
       "language": "TypeScript",
-      "stars": 3115,
-      "period_stars": 209,
-      "period": "daily",
-      "snapshot_delta": 176
+      "stars": 4017,
+      "period_stars": 1004,
+      "period": "weekly",
+      "snapshot_delta": 97
     },
     {
-      "rank": 8,
-      "name": "alsk1992/CloddsBot",
-      "url": "https://github.com/alsk1992/CloddsBot",
-      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
-      "language": "TypeScript",
-      "stars": 2553,
-      "period_stars": 376,
-      "period": "daily",
-      "snapshot_delta": 343
-    },
-    {
-      "rank": 2,
+      "rank": 5,
       "name": "melgarafael/DeskcommCRM",
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
-      "stars": 1868,
-      "period_stars": 504,
+      "stars": 2291,
+      "period_stars": 432,
       "period": "daily",
-      "snapshot_delta": 447
+      "snapshot_delta": 423
     },
     {
       "rank": 11,
-      "name": "p1neappleXpress/OpenFlux",
-      "url": "https://github.com/p1neappleXpress/OpenFlux",
-      "description": "Network stack research tool. TCP tunnel with pluggable transports.",
-      "language": "Go",
-      "stars": 1422,
-      "period_stars": 355,
+      "name": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Run parallel research agents with any model",
+      "language": "Rust",
+      "stars": 2188,
+      "period_stars": 289,
       "period": "daily",
-      "snapshot_delta": 234
+      "snapshot_delta": null
     }
   ]
 }
