@@ -1,145 +1,136 @@
 {
-  "generated_at": "2026-09-21T04:44:15.616096+00:00",
+  "generated_at": "2026-09-22T04:41:29.245983+00:00",
   "daily": [
     {
       "rank": 1,
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars": 263929,
-      "period_stars": 826,
-      "period": "daily"
-    },
-    {
-      "rank": 2,
       "name": "BuilderIO/agent-native",
       "url": "https://github.com/BuilderIO/agent-native",
       "description": "A framework for building agentic apps",
       "language": "TypeScript",
-      "stars": 5357,
-      "period_stars": 98,
+      "stars": 6048,
+      "period_stars": 607,
       "period": "daily",
-      "snapshot_delta": null
+      "snapshot_delta": 691
     },
     {
-      "rank": 3,
-      "name": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "stars": 18220,
-      "period_stars": 2428,
-      "period": "daily",
-      "snapshot_delta": 1537
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "HTML",
-      "stars": 25272,
-      "period_stars": 1018,
+      "stars": 25786,
+      "period_stars": 609,
       "period": "daily",
-      "snapshot_delta": 680
+      "snapshot_delta": 514
+    },
+    {
+      "rank": 3,
+      "name": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "stars": 17938,
+      "period_stars": 844,
+      "period": "daily",
+      "snapshot_delta": 963
+    },
+    {
+      "rank": 4,
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": 7801,
+      "period_stars": 167,
+      "period": "daily",
+      "snapshot_delta": null
     },
     {
       "rank": 5,
+      "name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": 16485,
+      "period_stars": 460,
+      "period": "daily",
+      "snapshot_delta": 358
+    },
+    {
+      "rank": 6,
       "name": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars": 35460,
-      "period_stars": 260,
+      "stars": 35909,
+      "period_stars": 424,
       "period": "daily",
-      "snapshot_delta": null
-    },
-    {
-      "rank": 6,
-      "name": "paperless-ngx/paperless-ngx",
-      "url": "https://github.com/paperless-ngx/paperless-ngx",
-      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
-      "language": "Python",
-      "stars": 45646,
-      "period_stars": 57,
-      "period": "daily",
-      "snapshot_delta": null
+      "snapshot_delta": 449
     },
     {
       "rank": 7,
-      "name": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "language": "TypeScript",
-      "stars": 147222,
-      "period_stars": 419,
+      "name": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": 12399,
+      "period_stars": 32,
       "period": "daily"
     },
     {
       "rank": 8,
-      "name": "mihail911/modern-software-dev-assignments",
-      "url": "https://github.com/mihail911/modern-software-dev-assignments",
-      "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+      "name": "mvt-project/mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
       "language": "Python",
-      "stars": 4625,
-      "period_stars": 172,
+      "stars": 13674,
+      "period_stars": 169,
       "period": "daily",
       "snapshot_delta": null
     },
     {
       "rank": 9,
-      "name": "higgsfield-ai/higgsfield",
-      "url": "https://github.com/higgsfield-ai/higgsfield",
-      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
-      "language": "Jupyter Notebook",
-      "stars": 5452,
-      "period_stars": 465,
-      "period": "daily",
-      "snapshot_delta": 429
-    },
-    {
-      "rank": 10,
-      "name": "Open-Dev-Society/OpenStock",
-      "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "language": "TypeScript",
-      "stars": 16975,
-      "period_stars": 755,
-      "period": "daily",
-      "snapshot_delta": 779
-    },
-    {
-      "rank": 11,
-      "name": "coder/coder",
-      "url": "https://github.com/coder/coder",
-      "description": "Secure environments for developers and their agents",
-      "language": "Go",
-      "stars": 16127,
-      "period_stars": 379,
-      "period": "daily",
-      "snapshot_delta": 451
-    },
-    {
-      "rank": 12,
-      "name": "vercel-labs/json-render",
-      "url": "https://github.com/vercel-labs/json-render",
-      "description": "The Generative UI framework",
-      "language": "TypeScript",
-      "stars": 17479,
-      "period_stars": 291,
+      "name": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "language": "Python",
+      "stars": 8392,
+      "period_stars": 250,
       "period": "daily",
       "snapshot_delta": null
     },
     {
-      "rank": 13,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars": 97797,
-      "period_stars": 736,
-      "period": "daily"
+      "rank": 10,
+      "name": "ruanyf/weekly",
+      "url": "https://github.com/ruanyf/weekly",
+      "description": "科技爱好者周刊，每周五发布",
+      "language": "未注明",
+      "stars": 104151,
+      "period_stars": 182,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 11,
+      "name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "language": "TypeScript",
+      "stars": 37948,
+      "period_stars": 394,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 12,
+      "name": "yynxxxxx/Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "language": "Rust",
+      "stars": 3744,
+      "period_stars": 50,
+      "period": "daily",
+      "snapshot_delta": null
     }
   ],
   "weekly": [
@@ -149,10 +140,10 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars": 38566,
-      "period_stars": 15504,
+      "stars": 39327,
+      "period_stars": 14499,
       "period": "weekly",
-      "snapshot_delta": 796
+      "snapshot_delta": 761
     },
     {
       "rank": 2,
@@ -160,21 +151,21 @@
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
-      "stars": 147222,
-      "period_stars": 2342,
+      "stars": 147499,
+      "period_stars": 2731,
       "period": "weekly",
-      "snapshot_delta": 443
+      "snapshot_delta": 277
     },
     {
       "rank": 3,
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars": 263929,
-      "period_stars": 6453,
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": 36907,
+      "period_stars": 5565,
       "period": "weekly",
-      "snapshot_delta": 883
+      "snapshot_delta": null
     },
     {
       "rank": 4,
@@ -182,21 +173,21 @@
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
-      "stars": 28143,
-      "period_stars": 5242,
+      "stars": 28606,
+      "period_stars": 5455,
       "period": "weekly",
-      "snapshot_delta": 565
+      "snapshot_delta": 463
     },
     {
       "rank": 5,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": 97797,
-      "period_stars": 3986,
+      "stars": 264832,
+      "period_stars": 6865,
       "period": "weekly",
-      "snapshot_delta": 642
+      "snapshot_delta": 903
     },
     {
       "rank": 6,
@@ -204,43 +195,43 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars": 25298,
-      "period_stars": 1298,
+      "stars": 25371,
+      "period_stars": 1350,
       "period": "weekly",
-      "snapshot_delta": 128
+      "snapshot_delta": 73
     },
     {
       "rank": 7,
-      "name": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars": 39798,
-      "period_stars": 8111,
+      "stars": 98197,
+      "period_stars": 4197,
       "period": "weekly",
-      "snapshot_delta": 1068
+      "snapshot_delta": 400
     },
     {
       "rank": 8,
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "stars": 74857,
+      "period_stars": 6125,
+      "period": "weekly",
+      "snapshot_delta": 1051
+    },
+    {
+      "rank": 9,
       "name": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars": 23787,
-      "period_stars": 1242,
+      "stars": 23897,
+      "period_stars": 1089,
       "period": "weekly",
-      "snapshot_delta": 95
-    },
-    {
-      "rank": 9,
-      "name": "max-sixty/worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "language": "Rust",
-      "stars": 8229,
-      "period_stars": 822,
-      "period": "weekly",
-      "snapshot_delta": 96
+      "snapshot_delta": 110
     },
     {
       "rank": 10,
@@ -248,32 +239,32 @@
       "url": "https://github.com/home-assistant/core",
       "description": "🏡 Open source home automation that puts local control and privacy first.",
       "language": "Python",
-      "stars": 90904,
-      "period_stars": 480,
+      "stars": 90988,
+      "period_stars": 526,
       "period": "weekly",
-      "snapshot_delta": 72
+      "snapshot_delta": 84
     },
     {
       "rank": 11,
-      "name": "blader/humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "language": "Python",
-      "stars": 50715,
-      "period_stars": 3045,
+      "name": "danny-avila/LibreChat",
+      "url": "https://github.com/danny-avila/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "language": "TypeScript",
+      "stars": 44594,
+      "period_stars": 1401,
       "period": "weekly",
-      "snapshot_delta": 402
+      "snapshot_delta": 91
     },
     {
       "rank": 12,
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "language": "TypeScript",
-      "stars": 73806,
-      "period_stars": 5841,
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 40739,
+      "period_stars": 7318,
       "period": "weekly",
-      "snapshot_delta": 996
+      "snapshot_delta": 941
     },
     {
       "rank": 13,
@@ -281,65 +272,65 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars": 83937,
-      "period_stars": 3690,
+      "stars": 84466,
+      "period_stars": 3526,
       "period": "weekly",
-      "snapshot_delta": 412
+      "snapshot_delta": 529
     },
     {
       "rank": 14,
-      "name": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "stars": 51996,
-      "period_stars": 2546,
+      "name": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "stars": 51143,
+      "period_stars": 3023,
       "period": "weekly",
-      "snapshot_delta": 301
+      "snapshot_delta": 428
     },
     {
       "rank": 15,
-      "name": "danny-avila/LibreChat",
-      "url": "https://github.com/danny-avila/LibreChat",
-      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
-      "language": "TypeScript",
-      "stars": 44503,
-      "period_stars": 1600,
-      "period": "weekly",
-      "snapshot_delta": 85
-    },
-    {
-      "rank": 16,
-      "name": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "language": "Python",
-      "stars": 49343,
-      "period_stars": 5249,
-      "period": "weekly",
-      "snapshot_delta": 550
-    },
-    {
-      "rank": 17,
       "name": "cline/cline",
       "url": "https://github.com/cline/cline",
       "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
       "language": "TypeScript",
-      "stars": 68903,
-      "period_stars": 1167,
+      "stars": 68994,
+      "period_stars": 1204,
+      "period": "weekly",
+      "snapshot_delta": 91
+    },
+    {
+      "rank": 16,
+      "name": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "stars": 8307,
+      "period_stars": 751,
+      "period": "weekly",
+      "snapshot_delta": 78
+    },
+    {
+      "rank": 17,
+      "name": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": 12399,
+      "period_stars": 345,
       "period": "weekly",
       "snapshot_delta": null
     },
     {
       "rank": 18,
-      "name": "petergyang/no-ai-slop",
-      "url": "https://github.com/petergyang/no-ai-slop",
-      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
-      "language": "Python",
-      "stars": 10855,
-      "period_stars": 1819,
+      "name": "cilium/cilium",
+      "url": "https://github.com/cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "language": "Go",
+      "stars": 25431,
+      "period_stars": 412,
       "period": "weekly",
-      "snapshot_delta": null
+      "snapshot_delta": 36
     },
     {
       "rank": 19,
@@ -347,56 +338,45 @@
       "url": "https://github.com/supabase/supabase",
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
-      "stars": 110451,
-      "period_stars": 1484,
+      "stars": 110545,
+      "period_stars": 1518,
       "period": "weekly",
-      "snapshot_delta": 90
+      "snapshot_delta": 94
     },
     {
       "rank": 20,
-      "name": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "language": "Python",
-      "stars": 185987,
-      "period_stars": 2521,
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 19165,
+      "period_stars": 15675,
       "period": "weekly",
-      "snapshot_delta": 268
+      "snapshot_delta": 945
     },
     {
       "rank": 21,
-      "name": "cilium/cilium",
-      "url": "https://github.com/cilium/cilium",
-      "description": "eBPF-based Networking, Security, and Observability",
-      "language": "Go",
-      "stars": 25395,
-      "period_stars": 373,
+      "name": "vastsa/PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "language": "TypeScript",
+      "stars": 5031,
+      "period_stars": 1370,
       "period": "weekly",
       "snapshot_delta": null
     }
   ],
   "repos": [
     {
-      "rank": 3,
+      "rank": 5,
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": 263929,
-      "period_stars": 6453,
+      "stars": 264832,
+      "period_stars": 6865,
       "period": "weekly",
-      "snapshot_delta": 883
-    },
-    {
-      "rank": 20,
-      "name": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "language": "Python",
-      "stars": 185987,
-      "period_stars": 2521,
-      "period": "weekly",
-      "snapshot_delta": 268
+      "snapshot_delta": 903
     },
     {
       "rank": 2,
@@ -404,10 +384,10 @@
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
-      "stars": 147222,
-      "period_stars": 2342,
+      "stars": 147499,
+      "period_stars": 2731,
       "period": "weekly",
-      "snapshot_delta": 443
+      "snapshot_delta": 277
     },
     {
       "rank": 19,
@@ -415,21 +395,32 @@
       "url": "https://github.com/supabase/supabase",
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
-      "stars": 110451,
-      "period_stars": 1484,
+      "stars": 110545,
+      "period_stars": 1518,
       "period": "weekly",
-      "snapshot_delta": 90
+      "snapshot_delta": 94
     },
     {
-      "rank": 5,
+      "rank": 10,
+      "name": "ruanyf/weekly",
+      "url": "https://github.com/ruanyf/weekly",
+      "description": "科技爱好者周刊，每周五发布",
+      "language": "未注明",
+      "stars": 104151,
+      "period_stars": 182,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 7,
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars": 97797,
-      "period_stars": 3986,
+      "stars": 98197,
+      "period_stars": 4197,
       "period": "weekly",
-      "snapshot_delta": 642
+      "snapshot_delta": 400
     },
     {
       "rank": 10,
@@ -437,10 +428,10 @@
       "url": "https://github.com/home-assistant/core",
       "description": "🏡 Open source home automation that puts local control and privacy first.",
       "language": "Python",
-      "stars": 90904,
-      "period_stars": 480,
+      "stars": 90988,
+      "period_stars": 526,
       "period": "weekly",
-      "snapshot_delta": 72
+      "snapshot_delta": 84
     },
     {
       "rank": 13,
@@ -448,98 +439,65 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars": 83937,
-      "period_stars": 3690,
+      "stars": 84466,
+      "period_stars": 3526,
       "period": "weekly",
-      "snapshot_delta": 412
+      "snapshot_delta": 529
     },
     {
-      "rank": 12,
+      "rank": 8,
       "name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars": 73806,
-      "period_stars": 5841,
+      "stars": 74857,
+      "period_stars": 6125,
       "period": "weekly",
-      "snapshot_delta": 996
+      "snapshot_delta": 1051
     },
     {
-      "rank": 17,
+      "rank": 15,
       "name": "cline/cline",
       "url": "https://github.com/cline/cline",
       "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
       "language": "TypeScript",
-      "stars": 68903,
-      "period_stars": 1167,
+      "stars": 68994,
+      "period_stars": 1204,
       "period": "weekly",
-      "snapshot_delta": null
+      "snapshot_delta": 91
     },
     {
       "rank": 14,
-      "name": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "stars": 51996,
-      "period_stars": 2546,
-      "period": "weekly",
-      "snapshot_delta": 301
-    },
-    {
-      "rank": 11,
       "name": "blader/humanizer",
       "url": "https://github.com/blader/humanizer",
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
-      "stars": 50715,
-      "period_stars": 3045,
+      "stars": 51143,
+      "period_stars": 3023,
       "period": "weekly",
-      "snapshot_delta": 402
+      "snapshot_delta": 428
     },
     {
-      "rank": 16,
-      "name": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "language": "Python",
-      "stars": 49343,
-      "period_stars": 5249,
-      "period": "weekly",
-      "snapshot_delta": 550
-    },
-    {
-      "rank": 6,
-      "name": "paperless-ngx/paperless-ngx",
-      "url": "https://github.com/paperless-ngx/paperless-ngx",
-      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
-      "language": "Python",
-      "stars": 45646,
-      "period_stars": 57,
-      "period": "daily",
-      "snapshot_delta": null
-    },
-    {
-      "rank": 15,
+      "rank": 11,
       "name": "danny-avila/LibreChat",
       "url": "https://github.com/danny-avila/LibreChat",
       "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
       "language": "TypeScript",
-      "stars": 44503,
-      "period_stars": 1600,
+      "stars": 44594,
+      "period_stars": 1401,
       "period": "weekly",
-      "snapshot_delta": 85
+      "snapshot_delta": 91
     },
     {
-      "rank": 7,
+      "rank": 12,
       "name": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars": 39798,
-      "period_stars": 8111,
+      "stars": 40739,
+      "period_stars": 7318,
       "period": "weekly",
-      "snapshot_delta": 1068
+      "snapshot_delta": 941
     },
     {
       "rank": 1,
@@ -547,21 +505,43 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars": 38566,
-      "period_stars": 15504,
+      "stars": 39327,
+      "period_stars": 14499,
       "period": "weekly",
-      "snapshot_delta": 796
+      "snapshot_delta": 761
     },
     {
-      "rank": 5,
+      "rank": 11,
+      "name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "language": "TypeScript",
+      "stars": 37948,
+      "period_stars": 394,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 3,
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": 36907,
+      "period_stars": 5565,
+      "period": "weekly",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 6,
       "name": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars": 35460,
-      "period_stars": 260,
+      "stars": 35909,
+      "period_stars": 424,
       "period": "daily",
-      "snapshot_delta": null
+      "snapshot_delta": 449
     },
     {
       "rank": 4,
@@ -569,21 +549,32 @@
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
-      "stars": 28143,
-      "period_stars": 5242,
+      "stars": 28606,
+      "period_stars": 5455,
       "period": "weekly",
-      "snapshot_delta": 565
+      "snapshot_delta": 463
     },
     {
-      "rank": 21,
+      "rank": 2,
+      "name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "stars": 25786,
+      "period_stars": 609,
+      "period": "daily",
+      "snapshot_delta": 514
+    },
+    {
+      "rank": 18,
       "name": "cilium/cilium",
       "url": "https://github.com/cilium/cilium",
       "description": "eBPF-based Networking, Security, and Observability",
       "language": "Go",
-      "stars": 25395,
-      "period_stars": 373,
+      "stars": 25431,
+      "period_stars": 412,
       "period": "weekly",
-      "snapshot_delta": null
+      "snapshot_delta": 36
     },
     {
       "rank": 6,
@@ -591,129 +582,140 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars": 25298,
-      "period_stars": 1298,
+      "stars": 25371,
+      "period_stars": 1350,
       "period": "weekly",
-      "snapshot_delta": 128
+      "snapshot_delta": 73
     },
     {
-      "rank": 4,
-      "name": "trycua/cua",
-      "url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "language": "HTML",
-      "stars": 25272,
-      "period_stars": 1018,
-      "period": "daily",
-      "snapshot_delta": 680
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "name": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars": 23787,
-      "period_stars": 1242,
+      "stars": 23897,
+      "period_stars": 1089,
       "period": "weekly",
-      "snapshot_delta": 95
+      "snapshot_delta": 110
     },
     {
-      "rank": 3,
+      "rank": 20,
       "name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars": 18220,
-      "period_stars": 2428,
-      "period": "daily",
-      "snapshot_delta": 1537
+      "stars": 19165,
+      "period_stars": 15675,
+      "period": "weekly",
+      "snapshot_delta": 945
     },
     {
-      "rank": 12,
-      "name": "vercel-labs/json-render",
-      "url": "https://github.com/vercel-labs/json-render",
-      "description": "The Generative UI framework",
-      "language": "TypeScript",
-      "stars": 17479,
-      "period_stars": 291,
-      "period": "daily",
-      "snapshot_delta": null
-    },
-    {
-      "rank": 10,
+      "rank": 3,
       "name": "Open-Dev-Society/OpenStock",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
-      "stars": 16975,
-      "period_stars": 755,
+      "stars": 17938,
+      "period_stars": 844,
       "period": "daily",
-      "snapshot_delta": 779
+      "snapshot_delta": 963
     },
     {
-      "rank": 11,
+      "rank": 5,
       "name": "coder/coder",
       "url": "https://github.com/coder/coder",
       "description": "Secure environments for developers and their agents",
       "language": "Go",
-      "stars": 16127,
-      "period_stars": 379,
+      "stars": 16485,
+      "period_stars": 460,
       "period": "daily",
-      "snapshot_delta": 451
+      "snapshot_delta": 358
     },
     {
-      "rank": 18,
-      "name": "petergyang/no-ai-slop",
-      "url": "https://github.com/petergyang/no-ai-slop",
-      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
+      "rank": 8,
+      "name": "mvt-project/mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
       "language": "Python",
-      "stars": 10855,
-      "period_stars": 1819,
+      "stars": 13674,
+      "period_stars": 169,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 17,
+      "name": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": 12399,
+      "period_stars": 345,
       "period": "weekly",
       "snapshot_delta": null
     },
     {
       "rank": 9,
+      "name": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "language": "Python",
+      "stars": 8392,
+      "period_stars": 250,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 16,
       "name": "max-sixty/worktrunk",
       "url": "https://github.com/max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
-      "stars": 8229,
-      "period_stars": 822,
+      "stars": 8307,
+      "period_stars": 751,
       "period": "weekly",
-      "snapshot_delta": 96
+      "snapshot_delta": 78
     },
     {
-      "rank": 9,
-      "name": "higgsfield-ai/higgsfield",
-      "url": "https://github.com/higgsfield-ai/higgsfield",
-      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
-      "language": "Jupyter Notebook",
-      "stars": 5452,
-      "period_stars": 465,
-      "period": "daily",
-      "snapshot_delta": 429
-    },
-    {
-      "rank": 2,
-      "name": "BuilderIO/agent-native",
-      "url": "https://github.com/BuilderIO/agent-native",
-      "description": "A framework for building agentic apps",
-      "language": "TypeScript",
-      "stars": 5357,
-      "period_stars": 98,
+      "rank": 4,
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": 7801,
+      "period_stars": 167,
       "period": "daily",
       "snapshot_delta": null
     },
     {
-      "rank": 8,
-      "name": "mihail911/modern-software-dev-assignments",
-      "url": "https://github.com/mihail911/modern-software-dev-assignments",
-      "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
-      "language": "Python",
-      "stars": 4625,
-      "period_stars": 172,
+      "rank": 1,
+      "name": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "language": "TypeScript",
+      "stars": 6048,
+      "period_stars": 607,
+      "period": "daily",
+      "snapshot_delta": 691
+    },
+    {
+      "rank": 21,
+      "name": "vastsa/PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "language": "TypeScript",
+      "stars": 5031,
+      "period_stars": 1370,
+      "period": "weekly",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 12,
+      "name": "yynxxxxx/Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "language": "Rust",
+      "stars": 3744,
+      "period_stars": 50,
       "period": "daily",
       "snapshot_delta": null
     }
