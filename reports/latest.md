@@ -1,61 +1,61 @@
-# GitHub 热门项目日报｜2026-09-30
+# GitHub 热门项目日报｜2026-10-01
 
-> 数据更新时间：2026-09-30 05:22 UTC。近期新增 Star 来自 GitHub Trending；快照增量是与上次采集的总 Star 差值。
+> 数据更新时间：2026-10-01 05:38 UTC。近期新增 Star 来自 GitHub Trending；快照增量是与上次采集的总 Star 差值。
 
 ## 最近一周热门 Top 10
 
 ### 1. [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
-- 语言：TypeScript｜总 Star：94,700｜本周新增：12,941｜较上次 +1452
+- 语言：TypeScript｜总 Star：95,414｜本周新增：13,855｜较上次 +714
 - 项目简介：The open-source app everyone uses to manage agents at work
 
-### 2. [anthropics/financial-services](https://github.com/anthropics/financial-services)
-- 语言：Python｜总 Star：38,273｜本周新增：2,114｜较上次 +157
-- 项目简介：仓库未提供简介
-
-### 3. [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
-- 语言：Python｜总 Star：43,115｜本周新增：17,365｜较上次 +1714
+### 2. [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
+- 语言：Python｜总 Star：44,019｜本周新增：18,389｜较上次 +904
 - 项目简介：Hindsight: Agent Memory That Learns
 
+### 3. [anthropics/financial-services](https://github.com/anthropics/financial-services)
+- 语言：Python｜总 Star：38,392｜本周新增：1,637｜较上次 +119
+- 项目简介：仓库未提供简介
+
 ### 4. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
-- 语言：Python｜总 Star：48,700｜本周新增：12,722｜较上次 +3788
+- 语言：Python｜总 Star：50,688｜本周新增：15,186｜较上次 +1988
 - 项目简介：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
 ### 5. [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
-- 语言：Python｜总 Star：61,647｜本周新增：5,830｜较上次 +1103
+- 语言：Python｜总 Star：62,193｜本周新增：6,485｜较上次 +546
 - 项目简介：Learn it. Build it. Ship it for others.
 
 ### 6. [vercel/next.js](https://github.com/vercel/next.js)
-- 语言：JavaScript｜总 Star：142,911｜本周新增：582｜较上次 +37
+- 语言：JavaScript｜总 Star：142,955｜本周新增：595｜较上次 +44
 - 项目简介：The React Framework
 
 ### 7. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- 语言：Python｜总 Star：51,036｜本周新增：1,327｜较上次 +117
+- 语言：Python｜总 Star：51,141｜本周新增：1,371｜较上次 +105
 - 项目简介："CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 
 ### 8. [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
-- 语言：Python｜总 Star：32,188｜本周新增：1,218｜较上次 +86
+- 语言：Python｜总 Star：32,248｜本周新增：914｜较上次 +60
 - 项目简介：CLI tool for configuring and monitoring Claude Code
 
-### 9. [stablyai/orca](https://github.com/stablyai/orca)
-- 语言：TypeScript｜总 Star：81,790｜本周新增：6,242｜较上次 +860
-- 项目简介：Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-
-### 10. [pytorch/pytorch](https://github.com/pytorch/pytorch)
-- 语言：Python｜总 Star：103,536｜本周新增：399｜较上次 +53
+### 9. [pytorch/pytorch](https://github.com/pytorch/pytorch)
+- 语言：Python｜总 Star：103,576｜本周新增：398｜较上次 +40
 - 项目简介：Tensors and Dynamic neural networks in Python with strong GPU acceleration
+
+### 10. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+- 语言：JavaScript｜总 Star：73,139｜本周新增：2,775｜较上次 +479
+- 项目简介：The design language that makes your AI harness better at design.
 
 ## 今日热门 Top 10
 
-1. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) — Python，今日新增 4,758 Star
-2. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) — Rust，今日新增 990 Star
-3. [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) — Python，今日新增 2,575 Star
-4. [paperclipai/paperclip](https://github.com/paperclipai/paperclip) — TypeScript，今日新增 2,458 Star
-5. [t8y2/dbx](https://github.com/t8y2/dbx) — Rust，今日新增 232 Star
-6. [mvschwarz/openrig](https://github.com/mvschwarz/openrig) — TypeScript，今日新增 737 Star
-7. [oblien/openship](https://github.com/oblien/openship) — TypeScript，今日新增 437 Star
-8. [averygan/reclip](https://github.com/averygan/reclip) — HTML，今日新增 113 Star
-9. [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) — TeX，今日新增 572 Star
-10. [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) — Python，今日新增 786 Star
+1. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) — Rust，今日新增 1,281 Star
+2. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) — Python，今日新增 3,483 Star
+3. [mvschwarz/openrig](https://github.com/mvschwarz/openrig) — TypeScript，今日新增 624 Star
+4. [mksglu/context-mode](https://github.com/mksglu/context-mode) — TypeScript，今日新增 90 Star
+5. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — JavaScript，今日新增 743 Star
+6. [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — Python，今日新增 431 Star
+7. [openclaw/openclaw](https://github.com/openclaw/openclaw) — TypeScript，今日新增 136 Star
+8. [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) — Python，今日新增 123 Star
+9. [mattpocock/skills](https://github.com/mattpocock/skills) — Shell，今日新增 876 Star
+10. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) — TypeScript，今日新增 349 Star
 
 ## 口径说明
 
