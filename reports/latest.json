@@ -1,93 +1,92 @@
 {
-  "generated_at": "2026-10-02T05:24:07.262688+00:00",
+  "generated_at": "2026-10-03T05:07:16.414496+00:00",
   "daily": [
     {
       "rank": 1,
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "stars": 150771,
-      "period_stars": 1194,
-      "period": "daily",
-      "snapshot_delta": 1373
-    },
-    {
-      "rank": 2,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars": 274073,
-      "period_stars": 883,
-      "period": "daily",
-      "snapshot_delta": 914
-    },
-    {
-      "rank": 3,
-      "name": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "language": "Rust",
-      "stars": 14111,
-      "period_stars": 2456,
-      "period": "daily",
-      "snapshot_delta": 1041
-    },
-    {
-      "rank": 4,
-      "name": "firebase/firebase-ios-sdk",
-      "url": "https://github.com/firebase/firebase-ios-sdk",
-      "description": "Firebase SDK for Apple App Development",
-      "language": "C++",
-      "stars": 6884,
-      "period_stars": 112,
-      "period": "daily",
-      "snapshot_delta": 103
-    },
-    {
-      "rank": 5,
-      "name": "mvschwarz/openrig",
-      "url": "https://github.com/mvschwarz/openrig",
-      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "language": "TypeScript",
-      "stars": 3832,
-      "period_stars": 642,
-      "period": "daily",
-      "snapshot_delta": 680
-    },
-    {
-      "rank": 6,
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "stars": 9349,
-      "period_stars": 150,
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 88902,
+      "period_stars": 696,
       "period": "daily",
       "snapshot_delta": null
     },
     {
-      "rank": 7,
+      "rank": 2,
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "language": "Go",
+      "stars": 109176,
+      "period_stars": 209,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 3,
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 294062,
-      "period_stars": 455,
+      "stars": 294530,
+      "period_stars": 556,
       "period": "daily",
-      "snapshot_delta": null
+      "snapshot_delta": 468
+    },
+    {
+      "rank": 4,
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 151997,
+      "period_stars": 1435,
+      "period": "daily",
+      "snapshot_delta": 1226
+    },
+    {
+      "rank": 5,
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": 74444,
+      "period_stars": 722,
+      "period": "daily"
+    },
+    {
+      "rank": 6,
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 274812,
+      "period_stars": 955,
+      "period": "daily",
+      "snapshot_delta": 739
+    },
+    {
+      "rank": 7,
+      "name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars": 14486,
+      "period_stars": 594,
+      "period": "daily",
+      "snapshot_delta": 375
     },
     {
       "rank": 8,
-      "name": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "language": "TypeScript",
-      "stars": 24840,
-      "period_stars": 362,
+      "name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars": 52470,
+      "period_stars": 140,
       "period": "daily",
-      "snapshot_delta": 291
+      "snapshot_delta": null
     },
     {
       "rank": 9,
@@ -95,74 +94,96 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars": 55447,
-      "period_stars": 627,
-      "period": "daily",
-      "snapshot_delta": 596
+      "stars": 55974,
+      "period_stars": 580,
+      "period": "daily"
     },
     {
       "rank": 10,
-      "name": "earendil-works/pi",
-      "url": "https://github.com/earendil-works/pi",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars": 111355,
-      "period_stars": 298,
+      "stars": 25083,
+      "period_stars": 282,
+      "period": "daily",
+      "snapshot_delta": 243
+    },
+    {
+      "rank": 11,
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": 20801,
+      "period_stars": 39,
       "period": "daily",
       "snapshot_delta": null
     },
     {
-      "rank": 11,
-      "name": "tile-ai/tilelang",
-      "url": "https://github.com/tile-ai/tilelang",
-      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
-      "language": "Python",
-      "stars": 8157,
-      "period_stars": 163,
-      "period": "daily"
-    },
-    {
       "rank": 12,
-      "name": "pablostanley/yoinks",
-      "url": "https://github.com/pablostanley/yoinks",
-      "description": "yoink any video from your terminal. no shady ads.",
-      "language": "TypeScript",
-      "stars": 3045,
-      "period_stars": 361,
+      "name": "getsentry/sentry",
+      "url": "https://github.com/getsentry/sentry",
+      "description": "Developer-first error tracking and performance monitoring",
+      "language": "Python",
+      "stars": 45061,
+      "period_stars": 16,
       "period": "daily",
       "snapshot_delta": null
     },
     {
       "rank": 13,
-      "name": "HunxByts/GhostTrack",
-      "url": "https://github.com/HunxByts/GhostTrack",
-      "description": "Useful tool to track location or mobile number",
-      "language": "Python",
-      "stars": 16496,
-      "period_stars": 368,
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "C",
+      "stars": 73012,
+      "period_stars": 98,
       "period": "daily",
       "snapshot_delta": null
     },
     {
       "rank": 14,
-      "name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "JavaScript",
-      "stars": 73807,
-      "period_stars": 495,
-      "period": "daily"
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 9535,
+      "period_stars": 163,
+      "period": "daily",
+      "snapshot_delta": 186
     },
     {
       "rank": 15,
-      "name": "Friedrich-M/UniMate",
-      "url": "https://github.com/Friedrich-M/UniMate",
-      "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
-      "language": "Python",
-      "stars": 1122,
-      "period_stars": 217,
+      "name": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "language": "TypeScript",
+      "stars": 4424,
+      "period_stars": 683,
+      "period": "daily",
+      "snapshot_delta": 592
+    },
+    {
+      "rank": 16,
+      "name": "Effect-TS/effect",
+      "url": "https://github.com/Effect-TS/effect",
+      "description": "Build production-ready applications in TypeScript",
+      "language": "TypeScript",
+      "stars": 16604,
+      "period_stars": 80,
       "period": "daily",
       "snapshot_delta": null
+    },
+    {
+      "rank": 17,
+      "name": "pablostanley/yoinks",
+      "url": "https://github.com/pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "language": "TypeScript",
+      "stars": 3587,
+      "period_stars": 623,
+      "period": "daily"
     }
   ],
   "weekly": [
@@ -172,10 +193,10 @@
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
-      "stars": 95922,
-      "period_stars": 14335,
+      "stars": 96384,
+      "period_stars": 12825,
       "period": "weekly",
-      "snapshot_delta": 508
+      "snapshot_delta": 462
     },
     {
       "rank": 2,
@@ -183,10 +204,10 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars": 44393,
-      "period_stars": 17403,
+      "stars": 44771,
+      "period_stars": 16183,
       "period": "weekly",
-      "snapshot_delta": 374
+      "snapshot_delta": 378
     },
     {
       "rank": 3,
@@ -194,10 +215,10 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars": 51498,
-      "period_stars": 16114,
+      "stars": 52022,
+      "period_stars": 16475,
       "period": "weekly",
-      "snapshot_delta": 810
+      "snapshot_delta": 524
     },
     {
       "rank": 4,
@@ -205,98 +226,98 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars": 62494,
-      "period_stars": 6469,
+      "stars": 62731,
+      "period_stars": 5600,
       "period": "weekly",
-      "snapshot_delta": 301
+      "snapshot_delta": 237
     },
     {
       "rank": 5,
-      "name": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "stars": 38488,
-      "period_stars": 1270,
+      "name": "flutter/flutter",
+      "url": "https://github.com/flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "stars": 179267,
+      "period_stars": 228,
       "period": "weekly",
-      "snapshot_delta": 96
+      "snapshot_delta": 33
     },
     {
       "rank": 6,
-      "name": "vercel/next.js",
-      "url": "https://github.com/vercel/next.js",
-      "description": "The React Framework",
-      "language": "JavaScript",
-      "stars": 142998,
-      "period_stars": 624,
-      "period": "weekly",
-      "snapshot_delta": 43
-    },
-    {
-      "rank": 7,
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
-      "stars": 73807,
-      "period_stars": 2704,
+      "stars": 74444,
+      "period_stars": 3124,
       "period": "weekly",
-      "snapshot_delta": 668
+      "snapshot_delta": 637
+    },
+    {
+      "rank": 7,
+      "name": "vercel/next.js",
+      "url": "https://github.com/vercel/next.js",
+      "description": "The React Framework",
+      "language": "JavaScript",
+      "stars": 143020,
+      "period_stars": 658,
+      "period": "weekly",
+      "snapshot_delta": 22
     },
     {
       "rank": 8,
-      "name": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "language": "Python",
-      "stars": 51276,
-      "period_stars": 1055,
-      "period": "weekly",
-      "snapshot_delta": 135
-    },
-    {
-      "rank": 9,
       "name": "alirezarezvani/claude-skills",
       "url": "https://github.com/alirezarezvani/claude-skills",
       "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
       "language": "Python",
-      "stars": 27207,
-      "period_stars": 743,
+      "stars": 27348,
+      "period_stars": 832,
       "period": "weekly",
-      "snapshot_delta": 136
+      "snapshot_delta": 141
+    },
+    {
+      "rank": 9,
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars": 55974,
+      "period_stars": 2661,
+      "period": "weekly",
+      "snapshot_delta": 527
     },
     {
       "rank": 10,
-      "name": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "language": "Python",
-      "stars": 32284,
-      "period_stars": 601,
-      "period": "weekly",
-      "snapshot_delta": 36
-    },
-    {
-      "rank": 11,
       "name": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
-      "stars": 6275,
-      "period_stars": 1360,
+      "stars": 6421,
+      "period_stars": 1425,
       "period": "weekly",
-      "snapshot_delta": 143
+      "snapshot_delta": 146
+    },
+    {
+      "rank": 11,
+      "name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "language": "Go",
+      "stars": 12932,
+      "period_stars": 1783,
+      "period": "weekly",
+      "snapshot_delta": null
     },
     {
       "rank": 12,
-      "name": "agent-substrate/substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "language": "Go",
-      "stars": 4131,
-      "period_stars": 365,
+      "name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars": 38566,
+      "period_stars": 1073,
       "period": "weekly",
-      "snapshot_delta": null
+      "snapshot_delta": 78
     },
     {
       "rank": 13,
@@ -304,10 +325,10 @@
       "url": "https://github.com/tile-ai/tilelang",
       "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "language": "Python",
-      "stars": 8157,
-      "period_stars": 481,
+      "stars": 8256,
+      "period_stars": 732,
       "period": "weekly",
-      "snapshot_delta": null
+      "snapshot_delta": 99
     },
     {
       "rank": 14,
@@ -315,121 +336,132 @@
       "url": "https://github.com/anthropics/claude-code-action",
       "description": "",
       "language": "TypeScript",
-      "stars": 9340,
-      "period_stars": 376,
-      "period": "weekly",
-      "snapshot_delta": 49
-    },
-    {
-      "rank": 15,
-      "name": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "language": "TypeScript",
-      "stars": 22268,
-      "period_stars": 5267,
-      "period": "weekly",
-      "snapshot_delta": 75
-    },
-    {
-      "rank": 16,
-      "name": "FxEmbed/FxEmbed",
-      "url": "https://github.com/FxEmbed/FxEmbed",
-      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
-      "language": "TypeScript",
-      "stars": 5635,
-      "period_stars": 369,
-      "period": "weekly",
-      "snapshot_delta": 19
-    },
-    {
-      "rank": 17,
-      "name": "flutter/flutter",
-      "url": "https://github.com/flutter/flutter",
-      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-      "language": "Dart",
-      "stars": 179234,
-      "period_stars": 147,
-      "period": "weekly",
-      "snapshot_delta": null
-    },
-    {
-      "rank": 18,
-      "name": "androoAGI/starnet",
-      "url": "https://github.com/androoAGI/starnet",
-      "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
-      "language": "JavaScript",
-      "stars": 918,
-      "period_stars": 592,
-      "period": "weekly",
-      "snapshot_delta": null
-    }
-  ],
-  "repos": [
-    {
-      "rank": 7,
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars": 294062,
-      "period_stars": 455,
-      "period": "daily",
-      "snapshot_delta": null
-    },
-    {
-      "rank": 2,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars": 274073,
-      "period_stars": 883,
-      "period": "daily",
-      "snapshot_delta": 914
-    },
-    {
-      "rank": 17,
-      "name": "flutter/flutter",
-      "url": "https://github.com/flutter/flutter",
-      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-      "language": "Dart",
-      "stars": 179234,
-      "period_stars": 147,
-      "period": "weekly",
-      "snapshot_delta": null
-    },
-    {
-      "rank": 1,
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "stars": 150771,
-      "period_stars": 1194,
-      "period": "daily",
-      "snapshot_delta": 1373
-    },
-    {
-      "rank": 6,
-      "name": "vercel/next.js",
-      "url": "https://github.com/vercel/next.js",
-      "description": "The React Framework",
-      "language": "JavaScript",
-      "stars": 142998,
-      "period_stars": 624,
+      "stars": 9383,
+      "period_stars": 417,
       "period": "weekly",
       "snapshot_delta": 43
     },
     {
-      "rank": 10,
-      "name": "earendil-works/pi",
-      "url": "https://github.com/earendil-works/pi",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "rank": 15,
+      "name": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "stars": 103632,
+      "period_stars": 369,
+      "period": "weekly",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 16,
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars": 128118,
+      "period_stars": 2533,
+      "period": "weekly",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 17,
+      "name": "pablostanley/yoinks",
+      "url": "https://github.com/pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
       "language": "TypeScript",
-      "stars": 111355,
-      "period_stars": 298,
+      "stars": 3587,
+      "period_stars": 1415,
+      "period": "weekly",
+      "snapshot_delta": 542
+    }
+  ],
+  "repos": [
+    {
+      "rank": 3,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 294530,
+      "period_stars": 556,
       "period": "daily",
+      "snapshot_delta": 468
+    },
+    {
+      "rank": 6,
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 274812,
+      "period_stars": 955,
+      "period": "daily",
+      "snapshot_delta": 739
+    },
+    {
+      "rank": 5,
+      "name": "flutter/flutter",
+      "url": "https://github.com/flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "stars": 179267,
+      "period_stars": 228,
+      "period": "weekly",
+      "snapshot_delta": 33
+    },
+    {
+      "rank": 4,
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 151997,
+      "period_stars": 1435,
+      "period": "daily",
+      "snapshot_delta": 1226
+    },
+    {
+      "rank": 7,
+      "name": "vercel/next.js",
+      "url": "https://github.com/vercel/next.js",
+      "description": "The React Framework",
+      "language": "JavaScript",
+      "stars": 143020,
+      "period_stars": 658,
+      "period": "weekly",
+      "snapshot_delta": 22
+    },
+    {
+      "rank": 16,
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars": 128118,
+      "period_stars": 2533,
+      "period": "weekly",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 2,
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "language": "Go",
+      "stars": 109176,
+      "period_stars": 209,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 15,
+      "name": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "stars": 103632,
+      "period_stars": 369,
+      "period": "weekly",
       "snapshot_delta": null
     },
     {
@@ -438,21 +470,43 @@
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
-      "stars": 95922,
-      "period_stars": 14335,
+      "stars": 96384,
+      "period_stars": 12825,
       "period": "weekly",
-      "snapshot_delta": 508
+      "snapshot_delta": 462
     },
     {
-      "rank": 7,
+      "rank": 1,
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 88902,
+      "period_stars": 696,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 6,
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
-      "stars": 73807,
-      "period_stars": 2704,
+      "stars": 74444,
+      "period_stars": 3124,
       "period": "weekly",
-      "snapshot_delta": 668
+      "snapshot_delta": 637
+    },
+    {
+      "rank": 13,
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "C",
+      "stars": 73012,
+      "period_stars": 98,
+      "period": "daily",
+      "snapshot_delta": null
     },
     {
       "rank": 4,
@@ -460,10 +514,10 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars": 62494,
-      "period_stars": 6469,
+      "stars": 62731,
+      "period_stars": 5600,
       "period": "weekly",
-      "snapshot_delta": 301
+      "snapshot_delta": 237
     },
     {
       "rank": 9,
@@ -471,10 +525,21 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars": 55447,
-      "period_stars": 627,
+      "stars": 55974,
+      "period_stars": 2661,
+      "period": "weekly",
+      "snapshot_delta": 527
+    },
+    {
+      "rank": 8,
+      "name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars": 52470,
+      "period_stars": 140,
       "period": "daily",
-      "snapshot_delta": 596
+      "snapshot_delta": null
     },
     {
       "rank": 3,
@@ -482,21 +547,21 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars": 51498,
-      "period_stars": 16114,
+      "stars": 52022,
+      "period_stars": 16475,
       "period": "weekly",
-      "snapshot_delta": 810
+      "snapshot_delta": 524
     },
     {
-      "rank": 8,
-      "name": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "rank": 12,
+      "name": "getsentry/sentry",
+      "url": "https://github.com/getsentry/sentry",
+      "description": "Developer-first error tracking and performance monitoring",
       "language": "Python",
-      "stars": 51276,
-      "period_stars": 1055,
-      "period": "weekly",
-      "snapshot_delta": 135
+      "stars": 45061,
+      "period_stars": 16,
+      "period": "daily",
+      "snapshot_delta": null
     },
     {
       "rank": 2,
@@ -504,98 +569,98 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars": 44393,
-      "period_stars": 17403,
+      "stars": 44771,
+      "period_stars": 16183,
       "period": "weekly",
-      "snapshot_delta": 374
+      "snapshot_delta": 378
     },
     {
-      "rank": 5,
+      "rank": 12,
       "name": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars": 38488,
-      "period_stars": 1270,
+      "stars": 38566,
+      "period_stars": 1073,
       "period": "weekly",
-      "snapshot_delta": 96
+      "snapshot_delta": 78
     },
     {
-      "rank": 10,
-      "name": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "language": "Python",
-      "stars": 32284,
-      "period_stars": 601,
-      "period": "weekly",
-      "snapshot_delta": 36
-    },
-    {
-      "rank": 9,
+      "rank": 8,
       "name": "alirezarezvani/claude-skills",
       "url": "https://github.com/alirezarezvani/claude-skills",
       "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
       "language": "Python",
-      "stars": 27207,
-      "period_stars": 743,
+      "stars": 27348,
+      "period_stars": 832,
       "period": "weekly",
-      "snapshot_delta": 136
+      "snapshot_delta": 141
     },
     {
-      "rank": 8,
+      "rank": 10,
       "name": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars": 24840,
-      "period_stars": 362,
+      "stars": 25083,
+      "period_stars": 282,
       "period": "daily",
-      "snapshot_delta": 291
+      "snapshot_delta": 243
     },
     {
-      "rank": 15,
-      "name": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "language": "TypeScript",
-      "stars": 22268,
-      "period_stars": 5267,
-      "period": "weekly",
-      "snapshot_delta": 75
-    },
-    {
-      "rank": 13,
-      "name": "HunxByts/GhostTrack",
-      "url": "https://github.com/HunxByts/GhostTrack",
-      "description": "Useful tool to track location or mobile number",
+      "rank": 11,
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
       "language": "Python",
-      "stars": 16496,
-      "period_stars": 368,
+      "stars": 20801,
+      "period_stars": 39,
       "period": "daily",
       "snapshot_delta": null
     },
     {
-      "rank": 3,
+      "rank": 16,
+      "name": "Effect-TS/effect",
+      "url": "https://github.com/Effect-TS/effect",
+      "description": "Build production-ready applications in TypeScript",
+      "language": "TypeScript",
+      "stars": 16604,
+      "period_stars": 80,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 7,
       "name": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
-      "stars": 14111,
-      "period_stars": 2456,
+      "stars": 14486,
+      "period_stars": 594,
       "period": "daily",
-      "snapshot_delta": 1041
+      "snapshot_delta": 375
     },
     {
-      "rank": 6,
+      "rank": 11,
+      "name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "language": "Go",
+      "stars": 12932,
+      "period_stars": 1783,
+      "period": "weekly",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 14,
       "name": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars": 9349,
-      "period_stars": 150,
+      "stars": 9535,
+      "period_stars": 163,
       "period": "daily",
-      "snapshot_delta": null
+      "snapshot_delta": 186
     },
     {
       "rank": 14,
@@ -603,10 +668,10 @@
       "url": "https://github.com/anthropics/claude-code-action",
       "description": "",
       "language": "TypeScript",
-      "stars": 9340,
-      "period_stars": 376,
+      "stars": 9383,
+      "period_stars": 417,
       "period": "weekly",
-      "snapshot_delta": 49
+      "snapshot_delta": 43
     },
     {
       "rank": 13,
@@ -614,98 +679,43 @@
       "url": "https://github.com/tile-ai/tilelang",
       "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "language": "Python",
-      "stars": 8157,
-      "period_stars": 481,
+      "stars": 8256,
+      "period_stars": 732,
       "period": "weekly",
-      "snapshot_delta": null
+      "snapshot_delta": 99
     },
     {
-      "rank": 4,
-      "name": "firebase/firebase-ios-sdk",
-      "url": "https://github.com/firebase/firebase-ios-sdk",
-      "description": "Firebase SDK for Apple App Development",
-      "language": "C++",
-      "stars": 6884,
-      "period_stars": 112,
-      "period": "daily",
-      "snapshot_delta": 103
-    },
-    {
-      "rank": 11,
+      "rank": 10,
       "name": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
-      "stars": 6275,
-      "period_stars": 1360,
+      "stars": 6421,
+      "period_stars": 1425,
       "period": "weekly",
-      "snapshot_delta": 143
+      "snapshot_delta": 146
     },
     {
-      "rank": 16,
-      "name": "FxEmbed/FxEmbed",
-      "url": "https://github.com/FxEmbed/FxEmbed",
-      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
-      "language": "TypeScript",
-      "stars": 5635,
-      "period_stars": 369,
-      "period": "weekly",
-      "snapshot_delta": 19
-    },
-    {
-      "rank": 12,
-      "name": "agent-substrate/substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "language": "Go",
-      "stars": 4131,
-      "period_stars": 365,
-      "period": "weekly",
-      "snapshot_delta": null
-    },
-    {
-      "rank": 5,
+      "rank": 15,
       "name": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "language": "TypeScript",
-      "stars": 3832,
-      "period_stars": 642,
+      "stars": 4424,
+      "period_stars": 683,
       "period": "daily",
-      "snapshot_delta": 680
+      "snapshot_delta": 592
     },
     {
-      "rank": 12,
+      "rank": 17,
       "name": "pablostanley/yoinks",
       "url": "https://github.com/pablostanley/yoinks",
       "description": "yoink any video from your terminal. no shady ads.",
       "language": "TypeScript",
-      "stars": 3045,
-      "period_stars": 361,
-      "period": "daily",
-      "snapshot_delta": null
-    },
-    {
-      "rank": 15,
-      "name": "Friedrich-M/UniMate",
-      "url": "https://github.com/Friedrich-M/UniMate",
-      "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
-      "language": "Python",
-      "stars": 1122,
-      "period_stars": 217,
-      "period": "daily",
-      "snapshot_delta": null
-    },
-    {
-      "rank": 18,
-      "name": "androoAGI/starnet",
-      "url": "https://github.com/androoAGI/starnet",
-      "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
-      "language": "JavaScript",
-      "stars": 918,
-      "period_stars": 592,
+      "stars": 3587,
+      "period_stars": 1415,
       "period": "weekly",
-      "snapshot_delta": null
+      "snapshot_delta": 542
     }
   ]
 }
