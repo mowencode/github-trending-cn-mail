@@ -1,61 +1,61 @@
-# GitHub 热门项目日报｜2026-10-06
+# GitHub 热门项目日报｜2026-10-07
 
-> 数据更新时间：2026-10-06 06:09 UTC。近期新增 Star 来自 GitHub Trending；快照增量是与上次采集的总 Star 差值。
+> 数据更新时间：2026-10-07 05:43 UTC。近期新增 Star 来自 GitHub Trending；快照增量是与上次采集的总 Star 差值。
 
 ## 最近一周热门 Top 10
 
-### 1. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-- 语言：JavaScript｜总 Star：77,177｜本周新增：4,936｜较上次 +716
-- 项目简介：The design language that makes your AI harness better at design.
+### 1. [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
+- 语言：TypeScript｜总 Star：5,558｜本周新增：3,327｜较上次 +259
+- 项目简介：Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
 
-### 2. [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
-- 语言：TypeScript｜总 Star：97,769｜本周新增：6,030｜较上次 +505
-- 项目简介：The open-source app everyone uses to manage agents at work
-
-### 3. [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
-- 语言：Python｜总 Star：46,046｜本周新增：6,565｜较上次 +466
-- 项目简介：Hindsight: Agent Memory That Learns
-
-### 4. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
-- 语言：TypeScript｜总 Star：57,427｜本周新增：3,342｜较上次 +569
+### 2. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+- 语言：TypeScript｜总 Star：58,072｜本周新增：3,614｜较上次 +645
 - 项目简介：Write HTML. Render video. Built for agents.
 
-### 5. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
-- 语言：Python｜总 Star：53,894｜本周新增：12,036｜较上次 +619
-- 项目简介：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+### 3. [cursor/plugins](https://github.com/cursor/plugins)
+- 语言：TypeScript｜总 Star：10,142｜本周新增：1,106｜较上次 +151
+- 项目简介：Cursor plugin specification and official plugins
 
-### 6. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-- 语言：Python｜总 Star：92,097｜本周新增：5,703｜较上次 +999
-- 项目简介：Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+### 4. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
+- 语言：Rust｜总 Star：15,174｜本周新增：5,228｜首次记录
+- 项目简介：OpenShell is the safe, private runtime for autonomous AI agents.
 
-### 7. [Effect-TS/effect](https://github.com/Effect-TS/effect)
-- 语言：TypeScript｜总 Star：17,061｜本周新增：791｜较上次 +73
-- 项目简介：Build production-ready applications in TypeScript
+### 5. [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
+- 语言：Python｜总 Star：38,821｜本周新增：2,079｜首次记录
+- 项目简介：📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 
-### 8. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-- 语言：JavaScript｜总 Star：156,156｜本周新增：8,596｜较上次 +1055
-- 项目简介：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+### 6. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+- 语言：TypeScript｜总 Star：97,279｜本周新增：2,104｜较上次 +551
+- 项目简介：Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 
-### 9. [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios)
-- 语言：Go｜总 Star：4,880｜本周新增：703｜首次记录
-- 项目简介：A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
+### 7. [pablostanley/yoinks](https://github.com/pablostanley/yoinks)
+- 语言：TypeScript｜总 Star：4,925｜本周新增：2,947｜较上次 +246
+- 项目简介：yoink any video from your terminal. no shady ads.
 
-### 10. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-- 语言：TypeScript｜总 Star：25,697｜本周新增：1,674｜较上次 +433
-- 项目简介：仓库未提供简介
+### 8. [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack)
+- 语言：Python｜总 Star：17,265｜本周新增：2,017｜首次记录
+- 项目简介：Useful tool to track location or mobile number
+
+### 9. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
+- 语言：JavaScript｜总 Star：5,966｜本周新增：3,318｜较上次 +1469
+- 项目简介：Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
+
+### 10. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
+- 语言：C++｜总 Star：6,949｜本周新增：3,073｜较上次 +1831
+- 项目简介：Tool for automatic PS5 executables porting to Linux and Windows
 
 ## 今日热门 Top 10
 
-1. [tester-army/e2e](https://github.com/tester-army/e2e) — TypeScript，今日新增 1,398 Star
-2. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) — TypeScript，今日新增 534 Star
-3. [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) — Python，今日新增 437 Star
-4. [pingdotgg/t3code](https://github.com/pingdotgg/t3code) — TypeScript，今日新增 485 Star
-5. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) — C++，今日新增 997 Star
-6. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — Python，今日新增 1,155 Star
-7. [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) — Python，今日新增 742 Star
-8. [caddyserver/caddy](https://github.com/caddyserver/caddy) — Go，今日新增 515 Star
-9. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) — JavaScript，今日新增 1,433 Star
-10. [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) — TypeScript，今日新增 101 Star
+1. [tester-army/e2e](https://github.com/tester-army/e2e) — TypeScript，今日新增 1,725 Star
+2. [mattpocock/skills](https://github.com/mattpocock/skills) — Shell，今日新增 889 Star
+3. [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) — Python，今日新增 619 Star
+4. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) — C++，今日新增 949 Star
+5. [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — JavaScript，今日新增 616 Star
+6. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) — TypeScript，今日新增 534 Star
+7. [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) — Python，今日新增 326 Star
+8. [morluto/rea](https://github.com/morluto/rea) — TypeScript，今日新增 2,956 Star
+9. [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) — Cuda，今日新增 199 Star
+10. [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) — Shell，今日新增 623 Star
 
 ## 口径说明
 
