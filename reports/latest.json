@@ -1,98 +1,122 @@
 {
-  "generated_at": "2026-10-09T05:56:32.126799+00:00",
+  "generated_at": "2026-10-10T05:39:26.030181+00:00",
   "daily": [
     {
       "rank": 1,
-      "name": "boykopovar/AnyPS5",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "language": "C++",
-      "stars": 16778,
-      "period_stars": 4669,
-      "period": "daily"
-    },
-    {
-      "rank": 2,
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "stars": 46756,
-      "period_stars": 1160,
-      "period": "daily",
-      "snapshot_delta": 1522
-    },
-    {
-      "rank": 3,
       "name": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars": 30200,
-      "period_stars": 7738,
+      "stars": 52367,
+      "period_stars": 14927,
       "period": "daily",
-      "snapshot_delta": 13250
+      "snapshot_delta": 22167
     },
     {
-      "rank": 4,
+      "rank": 2,
+      "name": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "stars": 23131,
+      "period_stars": 5868,
+      "period": "daily"
+    },
+    {
+      "rank": 3,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars": 281440,
-      "period_stars": 1774,
+      "stars": 283077,
+      "period_stars": 1687,
       "period": "daily"
+    },
+    {
+      "rank": 4,
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 48136,
+      "period_stars": 1739,
+      "period": "daily",
+      "snapshot_delta": 1380
     },
     {
       "rank": 5,
-      "name": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "language": "TypeScript",
-      "stars": 98664,
-      "period_stars": 670,
-      "period": "daily"
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 45446,
+      "period_stars": 326,
+      "period": "daily",
+      "snapshot_delta": null
     },
     {
       "rank": 6,
-      "name": "EpicGames/raddebugger",
-      "url": "https://github.com/EpicGames/raddebugger",
-      "description": "A native, user-mode, multi-process, graphical debugger.",
-      "language": "C",
-      "stars": 8169,
-      "period_stars": 279,
-      "period": "daily"
-    },
-    {
-      "rank": 7,
       "name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars": 27804,
-      "period_stars": 392,
+      "stars": 28387,
+      "period_stars": 709,
+      "period": "daily",
+      "snapshot_delta": 583
+    },
+    {
+      "rank": 7,
+      "name": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "language": "Python",
+      "stars": 60766,
+      "period_stars": 95,
       "period": "daily",
       "snapshot_delta": null
     },
     {
       "rank": 8,
-      "name": "storytold/artcraft",
-      "url": "https://github.com/storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "language": "Rust",
-      "stars": 8716,
-      "period_stars": 2103,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 104143,
+      "period_stars": 436,
       "period": "daily",
       "snapshot_delta": null
     },
     {
       "rank": 9,
-      "name": "liquidslr/system-design-notes",
-      "url": "https://github.com/liquidslr/system-design-notes",
-      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+      "name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": 12066,
+      "period_stars": 3752,
+      "period": "daily",
+      "snapshot_delta": 3350
+    },
+    {
+      "rank": 10,
+      "name": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+      "language": "Python",
+      "stars": 17792,
+      "period_stars": 110,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 11,
+      "name": "twostraws/SwiftUI-Agent-Skill",
+      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
       "language": "未注明",
-      "stars": 24875,
-      "period_stars": 393,
+      "stars": 5555,
+      "period_stars": 65,
       "period": "daily",
       "snapshot_delta": null
     }
@@ -104,10 +128,10 @@
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
-      "stars": 16778,
-      "period_stars": 10243,
+      "stars": 23131,
+      "period_stars": 15539,
       "period": "weekly",
-      "snapshot_delta": 5374
+      "snapshot_delta": 6353
     },
     {
       "rank": 2,
@@ -115,32 +139,32 @@
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "language": "TypeScript",
-      "stars": 6217,
-      "period_stars": 2693,
+      "stars": 6530,
+      "period_stars": 2338,
       "period": "weekly",
-      "snapshot_delta": 340
+      "snapshot_delta": 313
     },
     {
       "rank": 3,
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 283077,
+      "period_stars": 8156,
+      "period": "weekly",
+      "snapshot_delta": 1637
+    },
+    {
+      "rank": 4,
       "name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars": 59333,
-      "period_stars": 3996,
+      "stars": 59914,
+      "period_stars": 4003,
       "period": "weekly",
-      "snapshot_delta": 642
-    },
-    {
-      "rank": 4,
-      "name": "EpicGames/raddebugger",
-      "url": "https://github.com/EpicGames/raddebugger",
-      "description": "A native, user-mode, multi-process, graphical debugger.",
-      "language": "C",
-      "stars": 8169,
-      "period_stars": 448,
-      "period": "weekly",
-      "snapshot_delta": 244
+      "snapshot_delta": 581
     },
     {
       "rank": 5,
@@ -148,175 +172,197 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars": 10438,
-      "period_stars": 1109,
+      "stars": 10627,
+      "period_stars": 1125,
       "period": "weekly",
-      "snapshot_delta": 154
+      "snapshot_delta": 189
     },
     {
       "rank": 6,
+      "name": "EpicGames/raddebugger",
+      "url": "https://github.com/EpicGames/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": 8284,
+      "period_stars": 654,
+      "period": "weekly",
+      "snapshot_delta": 115
+    },
+    {
+      "rank": 7,
       "name": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
-      "stars": 98664,
-      "period_stars": 3153,
+      "stars": 99034,
+      "period_stars": 3850,
       "period": "weekly",
-      "snapshot_delta": 772
-    },
-    {
-      "rank": 7,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars": 281440,
-      "period_stars": 7448,
-      "period": "weekly",
-      "snapshot_delta": 1449
+      "snapshot_delta": 370
     },
     {
       "rank": 8,
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "stars": 94317,
-      "period_stars": 6987,
-      "period": "weekly",
-      "snapshot_delta": 786
-    },
-    {
-      "rank": 9,
       "name": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Give your agent CAD superpowers.",
       "language": "Python",
-      "stars": 18537,
-      "period_stars": 1898,
+      "stars": 18816,
+      "period_stars": 2125,
+      "period": "weekly",
+      "snapshot_delta": 279
+    },
+    {
+      "rank": 9,
+      "name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 26668,
+      "period_stars": 2379,
       "period": "weekly",
       "snapshot_delta": null
     },
     {
       "rank": 10,
-      "name": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-      "language": "JavaScript",
-      "stars": 8156,
-      "period_stars": 6086,
-      "period": "weekly",
-      "snapshot_delta": 889
-    },
-    {
-      "rank": 11,
-      "name": "pablostanley/yoinks",
-      "url": "https://github.com/pablostanley/yoinks",
-      "description": "yoink any video from your terminal. no shady ads.",
-      "language": "TypeScript",
-      "stars": 5471,
-      "period_stars": 2706,
-      "period": "weekly",
-      "snapshot_delta": 294
-    }
-  ],
-  "repos": [
-    {
-      "rank": 7,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars": 281440,
-      "period_stars": 7448,
-      "period": "weekly",
-      "snapshot_delta": 1449
-    },
-    {
-      "rank": 6,
-      "name": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "language": "TypeScript",
-      "stars": 98664,
-      "period_stars": 3153,
-      "period": "weekly",
-      "snapshot_delta": 772
-    },
-    {
-      "rank": 8,
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars": 94317,
-      "period_stars": 6987,
+      "stars": 95058,
+      "period_stars": 7084,
       "period": "weekly",
-      "snapshot_delta": 786
+      "snapshot_delta": 741
     },
     {
+      "rank": 11,
+      "name": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "language": "JavaScript",
+      "stars": 8780,
+      "period_stars": 6749,
+      "period": "weekly",
+      "snapshot_delta": 624
+    }
+  ],
+  "repos": [
+    {
       "rank": 3,
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 283077,
+      "period_stars": 8156,
+      "period": "weekly",
+      "snapshot_delta": 1637
+    },
+    {
+      "rank": 8,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 104143,
+      "period_stars": 436,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 7,
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars": 99034,
+      "period_stars": 3850,
+      "period": "weekly",
+      "snapshot_delta": 370
+    },
+    {
+      "rank": 10,
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 95058,
+      "period_stars": 7084,
+      "period": "weekly",
+      "snapshot_delta": 741
+    },
+    {
+      "rank": 7,
+      "name": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "language": "Python",
+      "stars": 60766,
+      "period_stars": 95,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 4,
       "name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars": 59333,
-      "period_stars": 3996,
+      "stars": 59914,
+      "period_stars": 4003,
       "period": "weekly",
-      "snapshot_delta": 642
+      "snapshot_delta": 581
     },
     {
-      "rank": 2,
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "stars": 46756,
-      "period_stars": 1160,
-      "period": "daily",
-      "snapshot_delta": 1522
-    },
-    {
-      "rank": 3,
+      "rank": 1,
       "name": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars": 30200,
-      "period_stars": 7738,
+      "stars": 52367,
+      "period_stars": 14927,
       "period": "daily",
-      "snapshot_delta": 13250
+      "snapshot_delta": 22167
     },
     {
-      "rank": 7,
+      "rank": 4,
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 48136,
+      "period_stars": 1739,
+      "period": "daily",
+      "snapshot_delta": 1380
+    },
+    {
+      "rank": 5,
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 45446,
+      "period_stars": 326,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 6,
       "name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars": 27804,
-      "period_stars": 392,
+      "stars": 28387,
+      "period_stars": 709,
       "period": "daily",
-      "snapshot_delta": null
+      "snapshot_delta": 583
     },
     {
       "rank": 9,
-      "name": "liquidslr/system-design-notes",
-      "url": "https://github.com/liquidslr/system-design-notes",
-      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
-      "language": "未注明",
-      "stars": 24875,
-      "period_stars": 393,
-      "period": "daily",
-      "snapshot_delta": null
-    },
-    {
-      "rank": 9,
-      "name": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "description": "Give your agent CAD superpowers.",
-      "language": "Python",
-      "stars": 18537,
-      "period_stars": 1898,
+      "name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 26668,
+      "period_stars": 2379,
       "period": "weekly",
       "snapshot_delta": null
     },
@@ -326,10 +372,43 @@
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
-      "stars": 16778,
-      "period_stars": 10243,
+      "stars": 23131,
+      "period_stars": 15539,
       "period": "weekly",
-      "snapshot_delta": 5374
+      "snapshot_delta": 6353
+    },
+    {
+      "rank": 8,
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
+      "language": "Python",
+      "stars": 18816,
+      "period_stars": 2125,
+      "period": "weekly",
+      "snapshot_delta": 279
+    },
+    {
+      "rank": 10,
+      "name": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+      "language": "Python",
+      "stars": 17792,
+      "period_stars": 110,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 9,
+      "name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": 12066,
+      "period_stars": 3752,
+      "period": "daily",
+      "snapshot_delta": 3350
     },
     {
       "rank": 5,
@@ -337,43 +416,32 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars": 10438,
-      "period_stars": 1109,
+      "stars": 10627,
+      "period_stars": 1125,
       "period": "weekly",
-      "snapshot_delta": 154
+      "snapshot_delta": 189
     },
     {
-      "rank": 8,
-      "name": "storytold/artcraft",
-      "url": "https://github.com/storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "language": "Rust",
-      "stars": 8716,
-      "period_stars": 2103,
-      "period": "daily",
-      "snapshot_delta": null
-    },
-    {
-      "rank": 4,
-      "name": "EpicGames/raddebugger",
-      "url": "https://github.com/EpicGames/raddebugger",
-      "description": "A native, user-mode, multi-process, graphical debugger.",
-      "language": "C",
-      "stars": 8169,
-      "period_stars": 448,
-      "period": "weekly",
-      "snapshot_delta": 244
-    },
-    {
-      "rank": 10,
+      "rank": 11,
       "name": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "language": "JavaScript",
-      "stars": 8156,
-      "period_stars": 6086,
+      "stars": 8780,
+      "period_stars": 6749,
       "period": "weekly",
-      "snapshot_delta": 889
+      "snapshot_delta": 624
+    },
+    {
+      "rank": 6,
+      "name": "EpicGames/raddebugger",
+      "url": "https://github.com/EpicGames/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": 8284,
+      "period_stars": 654,
+      "period": "weekly",
+      "snapshot_delta": 115
     },
     {
       "rank": 2,
@@ -381,21 +449,21 @@
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "language": "TypeScript",
-      "stars": 6217,
-      "period_stars": 2693,
+      "stars": 6530,
+      "period_stars": 2338,
       "period": "weekly",
-      "snapshot_delta": 340
+      "snapshot_delta": 313
     },
     {
       "rank": 11,
-      "name": "pablostanley/yoinks",
-      "url": "https://github.com/pablostanley/yoinks",
-      "description": "yoink any video from your terminal. no shady ads.",
-      "language": "TypeScript",
-      "stars": 5471,
-      "period_stars": 2706,
-      "period": "weekly",
-      "snapshot_delta": 294
+      "name": "twostraws/SwiftUI-Agent-Skill",
+      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "language": "未注明",
+      "stars": 5555,
+      "period_stars": 65,
+      "period": "daily",
+      "snapshot_delta": null
     }
   ]
 }
