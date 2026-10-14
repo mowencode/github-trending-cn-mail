@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T06:39:43.835921+00:00",
+  "generated_at": "2026-10-14T04:42:34.345193+00:00",
   "daily": [
     {
       "rank": 1,
@@ -7,9 +7,10 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars": 173035,
-      "period_stars": 45327,
-      "period": "daily"
+      "stars": 214736,
+      "period_stars": 54679,
+      "period": "daily",
+      "snapshot_delta": 41700
     },
     {
       "rank": 2,
@@ -17,54 +18,53 @@
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars": 54134,
-      "period_stars": 1895,
+      "stars": 55694,
+      "period_stars": 1961,
       "period": "daily",
-      "snapshot_delta": 2049
+      "snapshot_delta": 1560
     },
     {
       "rank": 3,
-      "name": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "language": "TypeScript",
-      "stars": 27539,
-      "period_stars": 246,
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 63894,
+      "period_stars": 1748,
       "period": "daily",
       "snapshot_delta": null
     },
     {
       "rank": 4,
-      "name": "storytold/artcraft",
-      "url": "https://github.com/storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "language": "Rust",
-      "stars": 23037,
-      "period_stars": 4095,
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 28404,
+      "period_stars": 969,
       "period": "daily",
-      "snapshot_delta": 4277
+      "snapshot_delta": 865
     },
     {
       "rank": 5,
-      "name": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "language": "Python",
-      "stars": 155304,
-      "period_stars": 157,
-      "period": "daily",
-      "snapshot_delta": null
-    },
-    {
-      "rank": 6,
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars": 53041,
-      "period_stars": 2081,
+      "stars": 54462,
+      "period_stars": 1815,
+      "period": "daily"
+    },
+    {
+      "rank": 6,
+      "name": "vercel-labs/skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "language": "TypeScript",
+      "stars": 34663,
+      "period_stars": 190,
       "period": "daily",
-      "snapshot_delta": 2206
+      "snapshot_delta": null
     },
     {
       "rank": 7,
@@ -72,30 +72,30 @@
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
       "language": "Jupyter Notebook",
-      "stars": 37749,
-      "period_stars": 879,
+      "stars": 38439,
+      "period_stars": 1001,
       "period": "daily",
-      "snapshot_delta": 1054
+      "snapshot_delta": 690
     },
     {
       "rank": 8,
-      "name": "microsoft/BitNet",
-      "url": "https://github.com/microsoft/BitNet",
-      "description": "Official inference framework for 1-bit LLMs",
-      "language": "C++",
-      "stars": 41018,
-      "period_stars": 97,
+      "name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": 26178,
+      "period_stars": 4081,
       "period": "daily",
-      "snapshot_delta": null
+      "snapshot_delta": 3141
     },
     {
       "rank": 9,
-      "name": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "language": "Python",
-      "stars": 59494,
-      "period_stars": 626,
+      "name": "xtool-org/xtool",
+      "url": "https://github.com/xtool-org/xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "language": "Swift",
+      "stars": 9639,
+      "period_stars": 1198,
       "period": "daily",
       "snapshot_delta": null
     }
@@ -107,65 +107,65 @@
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
-      "stars": 33344,
-      "period_stars": 27263,
+      "stars": 35643,
+      "period_stars": 28663,
       "period": "weekly",
-      "snapshot_delta": 2599
+      "snapshot_delta": 2299
     },
     {
       "rank": 2,
-      "name": "tester-army/e2e",
-      "url": "https://github.com/tester-army/e2e",
-      "description": "Next generation e2e testing framework for web and mobile apps.",
-      "language": "TypeScript",
-      "stars": 9721,
-      "period_stars": 5582,
-      "period": "weekly",
-      "snapshot_delta": 550
-    },
-    {
-      "rank": 3,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars": 288355,
-      "period_stars": 11139,
+      "stars": 289946,
+      "period_stars": 11955,
       "period": "weekly",
-      "snapshot_delta": 1733
+      "snapshot_delta": 1591
+    },
+    {
+      "rank": 3,
+      "name": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
+      "language": "TypeScript",
+      "stars": 10189,
+      "period_stars": 4426,
+      "period": "weekly",
+      "snapshot_delta": 468
     },
     {
       "rank": 4,
+      "name": "EpicGames/raddebugger",
+      "url": "https://github.com/EpicGames/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": 8492,
+      "period_stars": 857,
+      "period": "weekly",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 5,
       "name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars": 62006,
-      "period_stars": 4482,
+      "stars": 62959,
+      "period_stars": 4732,
       "period": "weekly",
-      "snapshot_delta": 858
+      "snapshot_delta": 953
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
-      "stars": 100186,
-      "period_stars": 3762,
+      "stars": 100501,
+      "period_stars": 3587,
       "period": "weekly",
-      "snapshot_delta": 376
-    },
-    {
-      "rank": 6,
-      "name": "flutter/flutter",
-      "url": "https://github.com/flutter/flutter",
-      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-      "language": "Dart",
-      "stars": 180012,
-      "period_stars": 806,
-      "period": "weekly",
-      "snapshot_delta": 174
+      "snapshot_delta": 315
     },
     {
       "rank": 7,
@@ -173,10 +173,10 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars": 11105,
-      "period_stars": 1144,
+      "stars": 11252,
+      "period_stars": 1141,
       "period": "weekly",
-      "snapshot_delta": 165
+      "snapshot_delta": 147
     },
     {
       "rank": 8,
@@ -184,122 +184,100 @@
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Give your agent CAD superpowers.",
       "language": "Python",
-      "stars": 19738,
-      "period_stars": 2441,
+      "stars": 20055,
+      "period_stars": 2173,
       "period": "weekly",
-      "snapshot_delta": 366
+      "snapshot_delta": 317
     },
     {
       "rank": 9,
-      "name": "mvschwarz/openrig",
-      "url": "https://github.com/mvschwarz/openrig",
-      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "language": "TypeScript",
-      "stars": 7322,
-      "period_stars": 2056,
-      "period": "weekly",
-      "snapshot_delta": 289
-    },
-    {
-      "rank": 10,
-      "name": "morluto/rea",
-      "url": "https://github.com/morluto/rea",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "language": "TypeScript",
-      "stars": 173036,
-      "period_stars": 130471,
-      "period": "weekly",
-      "snapshot_delta": 56865
-    },
-    {
-      "rank": 11,
-      "name": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-      "language": "JavaScript",
-      "stars": 10690,
-      "period_stars": 6621,
-      "period": "weekly",
-      "snapshot_delta": null
-    }
-  ],
-  "repos": [
-    {
-      "rank": 3,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars": 288355,
-      "period_stars": 11139,
-      "period": "weekly",
-      "snapshot_delta": 1733
-    },
-    {
-      "rank": 6,
       "name": "flutter/flutter",
       "url": "https://github.com/flutter/flutter",
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
-      "stars": 180012,
-      "period_stars": 806,
+      "stars": 180125,
+      "period_stars": 967,
       "period": "weekly",
-      "snapshot_delta": 174
+      "snapshot_delta": 113
     },
     {
       "rank": 10,
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 54462,
+      "period_stars": 9867,
+      "period": "weekly",
+      "snapshot_delta": 1421
+    }
+  ],
+  "repos": [
+    {
+      "rank": 2,
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 289946,
+      "period_stars": 11955,
+      "period": "weekly",
+      "snapshot_delta": 1591
+    },
+    {
+      "rank": 1,
       "name": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars": 173036,
-      "period_stars": 130471,
-      "period": "weekly",
-      "snapshot_delta": 56865
-    },
-    {
-      "rank": 5,
-      "name": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "language": "Python",
-      "stars": 155304,
-      "period_stars": 157,
+      "stars": 214736,
+      "period_stars": 54679,
       "period": "daily",
-      "snapshot_delta": null
+      "snapshot_delta": 41700
     },
     {
-      "rank": 5,
+      "rank": 9,
+      "name": "flutter/flutter",
+      "url": "https://github.com/flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "stars": 180125,
+      "period_stars": 967,
+      "period": "weekly",
+      "snapshot_delta": 113
+    },
+    {
+      "rank": 6,
       "name": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
-      "stars": 100186,
-      "period_stars": 3762,
+      "stars": 100501,
+      "period_stars": 3587,
       "period": "weekly",
-      "snapshot_delta": 376
+      "snapshot_delta": 315
     },
     {
-      "rank": 4,
+      "rank": 3,
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 63894,
+      "period_stars": 1748,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 5,
       "name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars": 62006,
-      "period_stars": 4482,
+      "stars": 62959,
+      "period_stars": 4732,
       "period": "weekly",
-      "snapshot_delta": 858
-    },
-    {
-      "rank": 9,
-      "name": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "language": "Python",
-      "stars": 59494,
-      "period_stars": 626,
-      "period": "daily",
-      "snapshot_delta": null
+      "snapshot_delta": 953
     },
     {
       "rank": 2,
@@ -307,32 +285,21 @@
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars": 54134,
-      "period_stars": 1895,
+      "stars": 55694,
+      "period_stars": 1961,
       "period": "daily",
-      "snapshot_delta": 2049
+      "snapshot_delta": 1560
     },
     {
-      "rank": 6,
+      "rank": 10,
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars": 53041,
-      "period_stars": 2081,
-      "period": "daily",
-      "snapshot_delta": 2206
-    },
-    {
-      "rank": 8,
-      "name": "microsoft/BitNet",
-      "url": "https://github.com/microsoft/BitNet",
-      "description": "Official inference framework for 1-bit LLMs",
-      "language": "C++",
-      "stars": 41018,
-      "period_stars": 97,
-      "period": "daily",
-      "snapshot_delta": null
+      "stars": 54462,
+      "period_stars": 9867,
+      "period": "weekly",
+      "snapshot_delta": 1421
     },
     {
       "rank": 7,
@@ -340,10 +307,10 @@
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
       "language": "Jupyter Notebook",
-      "stars": 37749,
-      "period_stars": 879,
+      "stars": 38439,
+      "period_stars": 1001,
       "period": "daily",
-      "snapshot_delta": 1054
+      "snapshot_delta": 690
     },
     {
       "rank": 1,
@@ -351,32 +318,43 @@
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
-      "stars": 33344,
-      "period_stars": 27263,
+      "stars": 35643,
+      "period_stars": 28663,
       "period": "weekly",
-      "snapshot_delta": 2599
+      "snapshot_delta": 2299
     },
     {
-      "rank": 3,
-      "name": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "rank": 6,
+      "name": "vercel-labs/skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
       "language": "TypeScript",
-      "stars": 27539,
-      "period_stars": 246,
+      "stars": 34663,
+      "period_stars": 190,
       "period": "daily",
       "snapshot_delta": null
     },
     {
       "rank": 4,
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 28404,
+      "period_stars": 969,
+      "period": "daily",
+      "snapshot_delta": 865
+    },
+    {
+      "rank": 8,
       "name": "storytold/artcraft",
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
-      "stars": 23037,
-      "period_stars": 4095,
+      "stars": 26178,
+      "period_stars": 4081,
       "period": "daily",
-      "snapshot_delta": 4277
+      "snapshot_delta": 3141
     },
     {
       "rank": 8,
@@ -384,10 +362,10 @@
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Give your agent CAD superpowers.",
       "language": "Python",
-      "stars": 19738,
-      "period_stars": 2441,
+      "stars": 20055,
+      "period_stars": 2173,
       "period": "weekly",
-      "snapshot_delta": 366
+      "snapshot_delta": 317
     },
     {
       "rank": 7,
@@ -395,43 +373,43 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars": 11105,
-      "period_stars": 1144,
+      "stars": 11252,
+      "period_stars": 1141,
       "period": "weekly",
-      "snapshot_delta": 165
+      "snapshot_delta": 147
     },
     {
-      "rank": 11,
-      "name": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-      "language": "JavaScript",
-      "stars": 10690,
-      "period_stars": 6621,
-      "period": "weekly",
-      "snapshot_delta": null
-    },
-    {
-      "rank": 2,
+      "rank": 3,
       "name": "tester-army/e2e",
       "url": "https://github.com/tester-army/e2e",
       "description": "Next generation e2e testing framework for web and mobile apps.",
       "language": "TypeScript",
-      "stars": 9721,
-      "period_stars": 5582,
+      "stars": 10189,
+      "period_stars": 4426,
       "period": "weekly",
-      "snapshot_delta": 550
+      "snapshot_delta": 468
     },
     {
       "rank": 9,
-      "name": "mvschwarz/openrig",
-      "url": "https://github.com/mvschwarz/openrig",
-      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "language": "TypeScript",
-      "stars": 7322,
-      "period_stars": 2056,
+      "name": "xtool-org/xtool",
+      "url": "https://github.com/xtool-org/xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "language": "Swift",
+      "stars": 9639,
+      "period_stars": 1198,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 4,
+      "name": "EpicGames/raddebugger",
+      "url": "https://github.com/EpicGames/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": 8492,
+      "period_stars": 857,
       "period": "weekly",
-      "snapshot_delta": 289
+      "snapshot_delta": null
     }
   ]
 }

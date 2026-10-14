@@ -1,0 +1,415 @@
+{
+  "generated_at": "2026-10-14T04:42:34.345193+00:00",
+  "daily": [
+    {
+      "rank": 1,
+      "name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": 214736,
+      "period_stars": 54679,
+      "period": "daily",
+      "snapshot_delta": 41700
+    },
+    {
+      "rank": 2,
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 55694,
+      "period_stars": 1961,
+      "period": "daily",
+      "snapshot_delta": 1560
+    },
+    {
+      "rank": 3,
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 63894,
+      "period_stars": 1748,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 4,
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 28404,
+      "period_stars": 969,
+      "period": "daily",
+      "snapshot_delta": 865
+    },
+    {
+      "rank": 5,
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 54462,
+      "period_stars": 1815,
+      "period": "daily"
+    },
+    {
+      "rank": 6,
+      "name": "vercel-labs/skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "language": "TypeScript",
+      "stars": 34663,
+      "period_stars": 190,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 7,
+      "name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": 38439,
+      "period_stars": 1001,
+      "period": "daily",
+      "snapshot_delta": 690
+    },
+    {
+      "rank": 8,
+      "name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": 26178,
+      "period_stars": 4081,
+      "period": "daily",
+      "snapshot_delta": 3141
+    },
+    {
+      "rank": 9,
+      "name": "xtool-org/xtool",
+      "url": "https://github.com/xtool-org/xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "language": "Swift",
+      "stars": 9639,
+      "period_stars": 1198,
+      "period": "daily",
+      "snapshot_delta": null
+    }
+  ],
+  "weekly": [
+    {
+      "rank": 1,
+      "name": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "stars": 35643,
+      "period_stars": 28663,
+      "period": "weekly",
+      "snapshot_delta": 2299
+    },
+    {
+      "rank": 2,
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 289946,
+      "period_stars": 11955,
+      "period": "weekly",
+      "snapshot_delta": 1591
+    },
+    {
+      "rank": 3,
+      "name": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
+      "language": "TypeScript",
+      "stars": 10189,
+      "period_stars": 4426,
+      "period": "weekly",
+      "snapshot_delta": 468
+    },
+    {
+      "rank": 4,
+      "name": "EpicGames/raddebugger",
+      "url": "https://github.com/EpicGames/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": 8492,
+      "period_stars": 857,
+      "period": "weekly",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 5,
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars": 62959,
+      "period_stars": 4732,
+      "period": "weekly",
+      "snapshot_delta": 953
+    },
+    {
+      "rank": 6,
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars": 100501,
+      "period_stars": 3587,
+      "period": "weekly",
+      "snapshot_delta": 315
+    },
+    {
+      "rank": 7,
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 11252,
+      "period_stars": 1141,
+      "period": "weekly",
+      "snapshot_delta": 147
+    },
+    {
+      "rank": 8,
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
+      "language": "Python",
+      "stars": 20055,
+      "period_stars": 2173,
+      "period": "weekly",
+      "snapshot_delta": 317
+    },
+    {
+      "rank": 9,
+      "name": "flutter/flutter",
+      "url": "https://github.com/flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "stars": 180125,
+      "period_stars": 967,
+      "period": "weekly",
+      "snapshot_delta": 113
+    },
+    {
+      "rank": 10,
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 54462,
+      "period_stars": 9867,
+      "period": "weekly",
+      "snapshot_delta": 1421
+    }
+  ],
+  "repos": [
+    {
+      "rank": 2,
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 289946,
+      "period_stars": 11955,
+      "period": "weekly",
+      "snapshot_delta": 1591
+    },
+    {
+      "rank": 1,
+      "name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": 214736,
+      "period_stars": 54679,
+      "period": "daily",
+      "snapshot_delta": 41700
+    },
+    {
+      "rank": 9,
+      "name": "flutter/flutter",
+      "url": "https://github.com/flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "stars": 180125,
+      "period_stars": 967,
+      "period": "weekly",
+      "snapshot_delta": 113
+    },
+    {
+      "rank": 6,
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars": 100501,
+      "period_stars": 3587,
+      "period": "weekly",
+      "snapshot_delta": 315
+    },
+    {
+      "rank": 3,
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 63894,
+      "period_stars": 1748,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 5,
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars": 62959,
+      "period_stars": 4732,
+      "period": "weekly",
+      "snapshot_delta": 953
+    },
+    {
+      "rank": 2,
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 55694,
+      "period_stars": 1961,
+      "period": "daily",
+      "snapshot_delta": 1560
+    },
+    {
+      "rank": 10,
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 54462,
+      "period_stars": 9867,
+      "period": "weekly",
+      "snapshot_delta": 1421
+    },
+    {
+      "rank": 7,
+      "name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": 38439,
+      "period_stars": 1001,
+      "period": "daily",
+      "snapshot_delta": 690
+    },
+    {
+      "rank": 1,
+      "name": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "stars": 35643,
+      "period_stars": 28663,
+      "period": "weekly",
+      "snapshot_delta": 2299
+    },
+    {
+      "rank": 6,
+      "name": "vercel-labs/skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "language": "TypeScript",
+      "stars": 34663,
+      "period_stars": 190,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 4,
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 28404,
+      "period_stars": 969,
+      "period": "daily",
+      "snapshot_delta": 865
+    },
+    {
+      "rank": 8,
+      "name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": 26178,
+      "period_stars": 4081,
+      "period": "daily",
+      "snapshot_delta": 3141
+    },
+    {
+      "rank": 8,
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
+      "language": "Python",
+      "stars": 20055,
+      "period_stars": 2173,
+      "period": "weekly",
+      "snapshot_delta": 317
+    },
+    {
+      "rank": 7,
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 11252,
+      "period_stars": 1141,
+      "period": "weekly",
+      "snapshot_delta": 147
+    },
+    {
+      "rank": 3,
+      "name": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
+      "language": "TypeScript",
+      "stars": 10189,
+      "period_stars": 4426,
+      "period": "weekly",
+      "snapshot_delta": 468
+    },
+    {
+      "rank": 9,
+      "name": "xtool-org/xtool",
+      "url": "https://github.com/xtool-org/xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "language": "Swift",
+      "stars": 9639,
+      "period_stars": 1198,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 4,
+      "name": "EpicGames/raddebugger",
+      "url": "https://github.com/EpicGames/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": 8492,
+      "period_stars": 857,
+      "period": "weekly",
+      "snapshot_delta": null
+    }
+  ]
+}
