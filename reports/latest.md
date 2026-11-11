@@ -1,61 +1,61 @@
-# GitHub 热门项目日报｜2026-11-10
+# GitHub 热门项目日报｜2026-11-11
 
-> 数据更新时间：2026-11-10 07:03 UTC。近期新增 Star 来自 GitHub Trending；快照增量是与上次采集的总 Star 差值。
+> 数据更新时间：2026-11-11 05:56 UTC。近期新增 Star 来自 GitHub Trending；快照增量是与上次采集的总 Star 差值。
 
 ## 最近一周热门 Top 10
 
 ### 1. [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
-- 语言：Python｜总 Star：11,157｜本周新增：10,159｜首次记录
+- 语言：Python｜总 Star：11,546｜本周新增：9,621｜较上次 +389
 - 项目简介：Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
 
 ### 2. [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)
-- 语言：Rust｜总 Star：20,790｜本周新增：12,120｜首次记录
+- 语言：Rust｜总 Star：21,556｜本周新增：9,502｜较上次 +766
 - 项目简介：Computer use CLI for AI agents
 
 ### 3. [anthropics/skills](https://github.com/anthropics/skills)
-- 语言：Python｜总 Star：191,413｜本周新增：3,796｜较上次 +2496
+- 语言：Python｜总 Star：192,557｜本周新增：5,014｜较上次 +1144
 - 项目简介：Public repository for Agent Skills
 
-### 4. [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
-- 语言：Rust｜总 Star：12,311｜本周新增：2,395｜较上次 +330
-- 项目简介：Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
-
-### 5. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
-- 语言：TypeScript｜总 Star：20,078｜本周新增：8,325｜较上次 +2825
+### 4. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
+- 语言：TypeScript｜总 Star：20,808｜本周新增：8,951｜较上次 +730
 - 项目简介：Open-source Grok Bot alternative with a virtual machine that bots can use
 
-### 6. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
-- 语言：TypeScript｜总 Star：115,523｜本周新增：5,130｜较上次 +938
-- 项目简介：Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+### 5. [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
+- 语言：Rust｜总 Star：12,417｜本周新增：2,093｜较上次 +106
+- 项目简介：Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 
-### 7. [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
-- 语言：Shell｜总 Star：37,718｜本周新增：4,324｜较上次 +1049
-- 项目简介：Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
-
-### 8. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
-- 语言：Rust｜总 Star：48,716｜本周新增：2,994｜较上次 +1733
+### 6. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
+- 语言：Rust｜总 Star：49,406｜本周新增：3,606｜较上次 +690
 - 项目简介：Browser automation CLI for AI agents
 
-### 9. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-- 语言：TypeScript｜总 Star：54,553｜本周新增：13,448｜较上次 +3061
-- 项目简介：仓库未提供简介
+### 7. [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
+- 语言：Shell｜总 Star：38,149｜本周新增：3,730｜较上次 +431
+- 项目简介：Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 
-### 10. [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
-- 语言：Python｜总 Star：100,733｜本周新增：8,226｜较上次 +1316
-- 项目简介：🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
+### 8. [mattpocock/skills](https://github.com/mattpocock/skills)
+- 语言：Shell｜总 Star：321,169｜本周新增：9,872｜较上次 +1129
+- 项目简介：Skills for Real Engineers. Straight from my .agents directory.
+
+### 9. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+- 语言：JavaScript｜总 Star：69,554｜本周新增：10,967｜较上次 +1191
+- 项目简介：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+
+### 10. [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)
+- 语言：Python｜总 Star：15,895｜本周新增：1,591｜较上次 +127
+- 项目简介：🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 
 ## 今日热门 Top 10
 
-1. [anthropics/skills](https://github.com/anthropics/skills) — Python，今日新增 1,038 Star
-2. [meta/astryx](https://github.com/meta/astryx) — TypeScript，今日新增 3,278 Star
-3. [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — Python，今日新增 4,267 Star
-4. [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) — C++，今日新增 574 Star
-5. [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) — Python，今日新增 551 Star
-6. [garrytan/gbrain](https://github.com/garrytan/gbrain) — TypeScript，今日新增 216 Star
-7. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) — Rust，今日新增 916 Star
-8. [ruvnet/RuView](https://github.com/ruvnet/RuView) — Rust，今日新增 172 Star
-9. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) — Python，今日新增 506 Star
-10. [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) — Python，今日新增 31 Star
+1. [meta/astryx](https://github.com/meta/astryx) — TypeScript，今日新增 3,108 Star
+2. [anthropics/skills](https://github.com/anthropics/skills) — Python，今日新增 1,679 Star
+3. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) — JavaScript，今日新增 465 Star
+4. [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) — Python，今日新增 531 Star
+5. [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) — C++，今日新增 456 Star
+6. [we-promise/sure](https://github.com/we-promise/sure) — Ruby，今日新增 159 Star
+7. [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) — Python，今日新增 790 Star
+8. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) — Rust，今日新增 780 Star
+9. [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — Python，今日新增 2,393 Star
+10. [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) — Rust，今日新增 192 Star
 
 ## 口径说明
 
