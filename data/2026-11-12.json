@@ -1,0 +1,503 @@
+{
+  "generated_at": "2026-11-12T06:59:05.267284+00:00",
+  "daily": [
+    {
+      "rank": 1,
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": 25519,
+      "period_stars": 2776,
+      "period": "daily",
+      "snapshot_delta": 2036
+    },
+    {
+      "rank": 2,
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars": 70685,
+      "period_stars": 278,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 3,
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 1999,
+      "period_stars": 159,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 4,
+      "name": "shadcn/improve",
+      "url": "https://github.com/shadcn/improve",
+      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "language": "未注明",
+      "stars": 11162,
+      "period_stars": 361,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 5,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 116157,
+      "period_stars": 787,
+      "period": "daily",
+      "snapshot_delta": 830
+    },
+    {
+      "rank": 6,
+      "name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars": 50044,
+      "period_stars": 708,
+      "period": "daily"
+    },
+    {
+      "rank": 7,
+      "name": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "stars": 13202,
+      "period_stars": 1078,
+      "period": "daily",
+      "snapshot_delta": 1015
+    },
+    {
+      "rank": 8,
+      "name": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "language": "Python",
+      "stars": 7534,
+      "period_stars": 645,
+      "period": "daily",
+      "snapshot_delta": 734
+    },
+    {
+      "rank": 9,
+      "name": "openai/codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "language": "TypeScript",
+      "stars": 11932,
+      "period_stars": 52,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 10,
+      "name": "TheAlgorithms/Java",
+      "url": "https://github.com/TheAlgorithms/Java",
+      "description": "All Algorithms implemented in Java",
+      "language": "Java",
+      "stars": 67144,
+      "period_stars": 51,
+      "period": "daily",
+      "snapshot_delta": null
+    }
+  ],
+  "weekly": [
+    {
+      "rank": 1,
+      "name": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "language": "Python",
+      "stars": 11989,
+      "period_stars": 7947,
+      "period": "weekly",
+      "snapshot_delta": 443
+    },
+    {
+      "rank": 2,
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 193303,
+      "period_stars": 5738,
+      "period": "weekly",
+      "snapshot_delta": 746
+    },
+    {
+      "rank": 3,
+      "name": "vercel-labs/agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "language": "Rust",
+      "stars": 22305,
+      "period_stars": 7772,
+      "period": "weekly",
+      "snapshot_delta": 749
+    },
+    {
+      "rank": 4,
+      "name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "stars": 21391,
+      "period_stars": 9257,
+      "period": "weekly",
+      "snapshot_delta": 583
+    },
+    {
+      "rank": 5,
+      "name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars": 50044,
+      "period_stars": 4183,
+      "period": "weekly",
+      "snapshot_delta": 638
+    },
+    {
+      "rank": 6,
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 70552,
+      "period_stars": 11507,
+      "period": "weekly",
+      "snapshot_delta": 998
+    },
+    {
+      "rank": 7,
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 322274,
+      "period_stars": 9575,
+      "period": "weekly",
+      "snapshot_delta": 1105
+    },
+    {
+      "rank": 8,
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "language": "Python",
+      "stars": 101786,
+      "period_stars": 5814,
+      "period": "weekly",
+      "snapshot_delta": 521
+    },
+    {
+      "rank": 9,
+      "name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": 94749,
+      "period_stars": 2310,
+      "period": "weekly",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 10,
+      "name": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "language": "Shell",
+      "stars": 38580,
+      "period_stars": 3150,
+      "period": "weekly",
+      "snapshot_delta": 431
+    },
+    {
+      "rank": 11,
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": 23977,
+      "period_stars": 2013,
+      "period": "weekly",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 12,
+      "name": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "language": "C++",
+      "stars": 17689,
+      "period_stars": 1535,
+      "period": "weekly",
+      "snapshot_delta": 219
+    },
+    {
+      "rank": 13,
+      "name": "herdrdev/herdr",
+      "url": "https://github.com/herdrdev/herdr",
+      "description": "the runtime your coding agents live on",
+      "language": "Rust",
+      "stars": 50427,
+      "period_stars": 2213,
+      "period": "weekly",
+      "snapshot_delta": null
+    }
+  ],
+  "repos": [
+    {
+      "rank": 7,
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 322274,
+      "period_stars": 9575,
+      "period": "weekly",
+      "snapshot_delta": 1105
+    },
+    {
+      "rank": 2,
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 193303,
+      "period_stars": 5738,
+      "period": "weekly",
+      "snapshot_delta": 746
+    },
+    {
+      "rank": 5,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 116157,
+      "period_stars": 787,
+      "period": "daily",
+      "snapshot_delta": 830
+    },
+    {
+      "rank": 8,
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "language": "Python",
+      "stars": 101786,
+      "period_stars": 5814,
+      "period": "weekly",
+      "snapshot_delta": 521
+    },
+    {
+      "rank": 9,
+      "name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": 94749,
+      "period_stars": 2310,
+      "period": "weekly",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 2,
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars": 70685,
+      "period_stars": 278,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 6,
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 70552,
+      "period_stars": 11507,
+      "period": "weekly",
+      "snapshot_delta": 998
+    },
+    {
+      "rank": 10,
+      "name": "TheAlgorithms/Java",
+      "url": "https://github.com/TheAlgorithms/Java",
+      "description": "All Algorithms implemented in Java",
+      "language": "Java",
+      "stars": 67144,
+      "period_stars": 51,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 13,
+      "name": "herdrdev/herdr",
+      "url": "https://github.com/herdrdev/herdr",
+      "description": "the runtime your coding agents live on",
+      "language": "Rust",
+      "stars": 50427,
+      "period_stars": 2213,
+      "period": "weekly",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 5,
+      "name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars": 50044,
+      "period_stars": 4183,
+      "period": "weekly",
+      "snapshot_delta": 638
+    },
+    {
+      "rank": 10,
+      "name": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "language": "Shell",
+      "stars": 38580,
+      "period_stars": 3150,
+      "period": "weekly",
+      "snapshot_delta": 431
+    },
+    {
+      "rank": 1,
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": 25519,
+      "period_stars": 2776,
+      "period": "daily",
+      "snapshot_delta": 2036
+    },
+    {
+      "rank": 11,
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": 23977,
+      "period_stars": 2013,
+      "period": "weekly",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 3,
+      "name": "vercel-labs/agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "language": "Rust",
+      "stars": 22305,
+      "period_stars": 7772,
+      "period": "weekly",
+      "snapshot_delta": 749
+    },
+    {
+      "rank": 4,
+      "name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "stars": 21391,
+      "period_stars": 9257,
+      "period": "weekly",
+      "snapshot_delta": 583
+    },
+    {
+      "rank": 12,
+      "name": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "language": "C++",
+      "stars": 17689,
+      "period_stars": 1535,
+      "period": "weekly",
+      "snapshot_delta": 219
+    },
+    {
+      "rank": 7,
+      "name": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "stars": 13202,
+      "period_stars": 1078,
+      "period": "daily",
+      "snapshot_delta": 1015
+    },
+    {
+      "rank": 1,
+      "name": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "language": "Python",
+      "stars": 11989,
+      "period_stars": 7947,
+      "period": "weekly",
+      "snapshot_delta": 443
+    },
+    {
+      "rank": 9,
+      "name": "openai/codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "language": "TypeScript",
+      "stars": 11932,
+      "period_stars": 52,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 4,
+      "name": "shadcn/improve",
+      "url": "https://github.com/shadcn/improve",
+      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "language": "未注明",
+      "stars": 11162,
+      "period_stars": 361,
+      "period": "daily",
+      "snapshot_delta": null
+    },
+    {
+      "rank": 8,
+      "name": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "language": "Python",
+      "stars": 7534,
+      "period_stars": 645,
+      "period": "daily",
+      "snapshot_delta": 734
+    },
+    {
+      "rank": 3,
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 1999,
+      "period_stars": 159,
+      "period": "daily",
+      "snapshot_delta": null
+    }
+  ]
+}
