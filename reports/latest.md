@@ -1,61 +1,61 @@
-# GitHub 热门项目日报｜2026-11-16
+# GitHub 热门项目日报｜2026-11-17
 
-> 数据更新时间：2026-11-16 06:09 UTC。近期新增 Star 来自 GitHub Trending；快照增量是与上次采集的总 Star 差值。
+> 数据更新时间：2026-11-17 07:43 UTC。近期新增 Star 来自 GitHub Trending；快照增量是与上次采集的总 Star 差值。
 
 ## 最近一周热门 Top 10
 
-### 1. [meta/astryx](https://github.com/meta/astryx)
-- 语言：TypeScript｜总 Star：29,076｜本周新增：13,501｜较上次 +792
+### 1. [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+- 语言：TypeScript｜总 Star：8,150｜本周新增：6,542｜较上次 +724
+- 项目简介：Keep your coding agent up to date with the latest web best practices
+
+### 2. [meta/astryx](https://github.com/meta/astryx)
+- 语言：TypeScript｜总 Star：29,808｜本周新增：10,939｜较上次 +732
 - 项目简介：An open source design system that's fully customizable and agent ready
 
-### 2. [anthropics/skills](https://github.com/anthropics/skills)
-- 语言：Python｜总 Star：195,496｜本周新增：6,077｜较上次 +784
-- 项目简介：Public repository for Agent Skills
-
-### 3. [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
-- 语言：Python｜总 Star：112,658｜本周新增：10,412｜较上次 +741
-- 项目简介：Hunt down social media accounts by username across social networks
-
-### 4. [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
-- 语言：TypeScript｜总 Star：12,030｜本周新增：1,719｜较上次 +705
+### 3. [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
+- 语言：TypeScript｜总 Star：12,797｜本周新增：2,325｜较上次 +767
 - 项目简介：The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 
+### 4. [anthropics/skills](https://github.com/anthropics/skills)
+- 语言：Python｜总 Star：196,263｜本周新增：5,666｜较上次 +767
+- 项目简介：Public repository for Agent Skills
+
 ### 5. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
-- 语言：Rust｜总 Star：51,734｜本周新增：4,217｜较上次 +433
+- 语言：Rust｜总 Star：52,154｜本周新增：3,760｜较上次 +420
 - 项目简介：Browser automation CLI for AI agents
 
-### 6. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
-- 语言：Python｜总 Star：72,593｜本周新增：4,548｜较上次 +293
-- 项目简介：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
-
-### 7. [we-promise/sure](https://github.com/we-promise/sure)
-- 语言：Ruby｜总 Star：15,786｜本周新增：4,556｜较上次 +370
+### 6. [we-promise/sure](https://github.com/we-promise/sure)
+- 语言：Ruby｜总 Star：16,087｜本周新增：4,679｜较上次 +301
 - 项目简介：The personal finance app for everyone (by everyone)
 
-### 8. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
-- 语言：TypeScript｜总 Star：23,638｜本周新增：5,463｜较上次 +745
-- 项目简介：Open-source Grok Bot alternative with a virtual machine that bots can use
+### 7. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+- 语言：Python｜总 Star：72,920｜本周新增：4,355｜较上次 +327
+- 项目简介：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+
+### 8. [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+- 语言：Python｜总 Star：113,370｜本周新增：7,067｜较上次 +712
+- 项目简介：Hunt down social media accounts by username across social networks
 
 ### 9. [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
-- 语言：Python｜总 Star：19,934｜本周新增：5,060｜较上次 +639
+- 语言：Python｜总 Star：20,512｜本周新增：4,249｜较上次 +578
 - 项目简介：Open-source plugin for designing and reviewing software with agents
 
 ### 10. [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)
-- 语言：C++｜总 Star：18,102｜本周新增：1,922｜较上次 +98
+- 语言：C++｜总 Star：18,215｜本周新增：1,448｜较上次 +113
 - 项目简介：Multi-Joint dynamics with Contact. A general purpose physics simulator.
 
 ## 今日热门 Top 10
 
-1. [dream-num/univer](https://github.com/dream-num/univer) — TypeScript，今日新增 988 Star
-2. [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) — TypeScript，今日新增 355 Star
-3. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) — TypeScript，今日新增 247 Star
-4. [backnotprop/plannotator](https://github.com/backnotprop/plannotator) — TypeScript，今日新增 866 Star
-5. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) — TypeScript，今日新增 717 Star
-6. [alibaba/open-code-review](https://github.com/alibaba/open-code-review) — Go，今日新增 691 Star
-7. [Tencent/LoopForge](https://github.com/Tencent/LoopForge) — Go，今日新增 423 Star
-8. [ggml-org/ggml](https://github.com/ggml-org/ggml) — C++，今日新增 43 Star
-9. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) — Python，今日新增 98 Star
-10. [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) — TypeScript，今日新增 1,219 Star
+1. [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) — TypeScript，今日新增 791 Star
+2. [backnotprop/plannotator](https://github.com/backnotprop/plannotator) — TypeScript，今日新增 696 Star
+3. [dream-num/univer](https://github.com/dream-num/univer) — TypeScript，今日新增 1,828 Star
+4. [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) — Python，今日新增 837 Star
+5. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) — Python，今日新增 1,094 Star
+6. [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) — Go，今日新增 46 Star
+7. [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) — JavaScript，今日新增 288 Star
+8. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) — TypeScript，今日新增 529 Star
+9. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — Python，今日新增 135 Star
+10. [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) — Python，今日新增 873 Star
 
 ## 口径说明
 
