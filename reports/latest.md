@@ -1,61 +1,61 @@
-# GitHub 热门项目日报｜2026-11-22
+# GitHub 热门项目日报｜2026-11-23
 
-> 数据更新时间：2026-11-22 06:30 UTC。近期新增 Star 来自 GitHub Trending；快照增量是与上次采集的总 Star 差值。
+> 数据更新时间：2026-11-23 07:21 UTC。近期新增 Star 来自 GitHub Trending；快照增量是与上次采集的总 Star 差值。
 
 ## 最近一周热门 Top 10
 
 ### 1. [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
-- 语言：TypeScript｜总 Star：14,220｜本周新增：3,396｜较上次 +256
+- 语言：TypeScript｜总 Star：14,515｜本周新增：2,815｜较上次 +295
 - 项目简介：The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 
 ### 2. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
-- 语言：TypeScript｜总 Star：11,570｜本周新增：2,431｜较上次 +444
+- 语言：TypeScript｜总 Star：12,039｜本周新增：2,683｜较上次 +469
 - 项目简介：A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
 
 ### 3. [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
-- 语言：TypeScript｜总 Star：9,961｜本周新增：4,400｜较上次 +358
+- 语言：TypeScript｜总 Star：10,300｜本周新增：3,575｜较上次 +339
 - 项目简介：Keep your coding agent up to date with the latest web best practices
 
 ### 4. [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
-- 语言：Go｜总 Star：55,177｜本周新增：4,032｜较上次 +308
+- 语言：Go｜总 Star：55,505｜本周新增：3,700｜较上次 +328
 - 项目简介：Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 
 ### 5. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
-- 语言：Python｜总 Star：72,163｜本周新增：4,198｜较上次 +583
+- 语言：Python｜总 Star：72,973｜本周新增：4,731｜较上次 +810
 - 项目简介：AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
 ### 6. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-- 语言：TypeScript｜总 Star：58,724｜本周新增：2,795｜较上次 +143
+- 语言：TypeScript｜总 Star：58,905｜本周新增：2,268｜较上次 +181
 - 项目简介：Chrome DevTools for coding agents
 
 ### 7. [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)
-- 语言：Python｜总 Star：7,667｜本周新增：3,113｜较上次 +190
+- 语言：Python｜总 Star：7,841｜本周新增：2,616｜较上次 +174
 - 项目简介：Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.
 
 ### 8. [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
-- 语言：TypeScript｜总 Star：21,060｜本周新增：3,792｜较上次 +205
+- 语言：TypeScript｜总 Star：21,255｜本周新增：3,620｜较上次 +195
 - 项目简介：AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 
 ### 9. [meta/astryx](https://github.com/meta/astryx)
-- 语言：TypeScript｜总 Star：31,916｜本周新增：3,967｜较上次 +458
+- 语言：TypeScript｜总 Star：32,330｜本周新增：3,626｜较上次 +414
 - 项目简介：An open source design system that's fully customizable and agent ready
 
 ### 10. [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler)
-- 语言：Objective-C｜总 Star：2,362｜本周新增：524｜较上次 +47
+- 语言：Objective-C｜总 Star：2,415｜本周新增：461｜较上次 +53
 - 项目简介：Enable Hermès Watch Faces on any Apple Watch devices
 
 ## 今日热门 Top 10
 
-1. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) — Python，今日新增 1,803 Star
-2. [obra/superpowers](https://github.com/obra/superpowers) — Shell，今日新增 883 Star
-3. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) — Python，今日新增 769 Star
-4. [jingyaogong/minimind](https://github.com/jingyaogong/minimind) — Python，今日新增 488 Star
-5. [cursor/plugins](https://github.com/cursor/plugins) — TypeScript，今日新增 260 Star
-6. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — TypeScript，今日新增 1,006 Star
-7. [nginx/nginx](https://github.com/nginx/nginx) — C，今日新增 189 Star
-8. [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) — C++，今日新增 200 Star
-9. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) — HTML，今日新增 583 Star
-10. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — Python，今日新增 560 Star
+1. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) — Python，今日新增 1,716 Star
+2. [obra/superpowers](https://github.com/obra/superpowers) — Shell，今日新增 788 Star
+3. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) — Python，今日新增 699 Star
+4. [jingyaogong/minimind](https://github.com/jingyaogong/minimind) — Python，今日新增 473 Star
+5. [cursor/plugins](https://github.com/cursor/plugins) — TypeScript，今日新增 294 Star
+6. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — TypeScript，今日新增 915 Star
+7. [nginx/nginx](https://github.com/nginx/nginx) — C，今日新增 163 Star
+8. [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) — C++，今日新增 158 Star
+9. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) — HTML，今日新增 518 Star
+10. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — Python，今日新增 668 Star
 
 ## 口径说明
 
