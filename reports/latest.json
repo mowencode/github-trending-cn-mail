@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T09:41:42.875452+00:00",
+  "generated_at": "2026-11-25T08:14:47.163767+00:00",
   "daily": [
     {
       "rank": 1,
@@ -7,10 +7,10 @@
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
-      "stars": 20424,
-      "period_stars": 2029,
+      "stars": 21968,
+      "period_stars": 1826,
       "period": "daily",
-      "snapshot_delta": 2025
+      "snapshot_delta": 1544
     },
     {
       "rank": 2,
@@ -18,10 +18,10 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 325464,
-      "period_stars": 840,
+      "stars": 326083,
+      "period_stars": 1003,
       "period": "daily",
-      "snapshot_delta": 1055
+      "snapshot_delta": 619
     },
     {
       "rank": 3,
@@ -29,10 +29,10 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
-      "stars": 64128,
-      "period_stars": 790,
+      "stars": 65151,
+      "period_stars": 1074,
       "period": "daily",
-      "snapshot_delta": 1125
+      "snapshot_delta": 1023
     },
     {
       "rank": 4,
@@ -40,10 +40,10 @@
       "url": "https://github.com/jingyaogong/minimind",
       "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "language": "Python",
-      "stars": 69836,
-      "period_stars": 828,
+      "stars": 70561,
+      "period_stars": 727,
       "period": "daily",
-      "snapshot_delta": 836
+      "snapshot_delta": 725
     },
     {
       "rank": 5,
@@ -51,10 +51,10 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars": 18953,
-      "period_stars": 397,
+      "stars": 19352,
+      "period_stars": 360,
       "period": "daily",
-      "snapshot_delta": 383
+      "snapshot_delta": 399
     },
     {
       "rank": 6,
@@ -62,10 +62,10 @@
       "url": "https://github.com/firecrawl/firecrawl",
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "language": "TypeScript",
-      "stars": 208308,
-      "period_stars": 924,
+      "stars": 209271,
+      "period_stars": 991,
       "period": "daily",
-      "snapshot_delta": 1026
+      "snapshot_delta": 963
     },
     {
       "rank": 7,
@@ -73,10 +73,10 @@
       "url": "https://github.com/nginx/nginx",
       "description": "The official NGINX Open Source repository.",
       "language": "C",
-      "stars": 33110,
-      "period_stars": 174,
+      "stars": 33280,
+      "period_stars": 158,
       "period": "daily",
-      "snapshot_delta": 175
+      "snapshot_delta": 170
     },
     {
       "rank": 8,
@@ -84,10 +84,10 @@
       "url": "https://github.com/openvinotoolkit/openvino",
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "language": "C++",
-      "stars": 12356,
-      "period_stars": 184,
+      "stars": 12535,
+      "period_stars": 185,
       "period": "daily",
-      "snapshot_delta": 203
+      "snapshot_delta": 179
     },
     {
       "rank": 9,
@@ -95,10 +95,10 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars": 71329,
-      "period_stars": 620,
+      "stars": 72402,
+      "period_stars": 802,
       "period": "daily",
-      "snapshot_delta": 831
+      "snapshot_delta": 1073
     },
     {
       "rank": 10,
@@ -106,8 +106,8 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": 73731,
-      "period_stars": 797,
+      "stars": 74565,
+      "period_stars": 703,
       "period": "daily"
     },
     {
@@ -116,8 +116,8 @@
       "url": "https://github.com/google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
-      "stars": 12463,
-      "period_stars": 422,
+      "stars": 12779,
+      "period_stars": 403,
       "period": "daily"
     },
     {
@@ -126,10 +126,10 @@
       "url": "https://github.com/mjmirza/app-store-compliance",
       "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "language": "Shell",
-      "stars": 5307,
-      "period_stars": 761,
+      "stars": 6084,
+      "period_stars": 928,
       "period": "daily",
-      "snapshot_delta": 1072
+      "snapshot_delta": 777
     },
     {
       "rank": 13,
@@ -137,10 +137,10 @@
       "url": "https://github.com/Tracer-Cloud/opensre",
       "description": "The open-source agent for CI/CD reliability.",
       "language": "Python",
-      "stars": 14969,
-      "period_stars": 436,
+      "stars": 15305,
+      "period_stars": 398,
       "period": "daily",
-      "snapshot_delta": 434
+      "snapshot_delta": 336
     },
     {
       "rank": 14,
@@ -148,10 +148,10 @@
       "url": "https://github.com/toeverything/AFFiNE",
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
       "language": "TypeScript",
-      "stars": 77614,
-      "period_stars": 595,
+      "stars": 78151,
+      "period_stars": 584,
       "period": "daily",
-      "snapshot_delta": 623
+      "snapshot_delta": 537
     },
     {
       "rank": 15,
@@ -159,10 +159,10 @@
       "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
       "description": "The only downloader you need. 下载器的集大成者。",
       "language": "Python",
-      "stars": 16824,
-      "period_stars": 1087,
+      "stars": 17706,
+      "period_stars": 1092,
       "period": "daily",
-      "snapshot_delta": 1228
+      "snapshot_delta": 882
     },
     {
       "rank": 16,
@@ -170,10 +170,10 @@
       "url": "https://github.com/zhouxiaoka/autoclip",
       "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
       "language": "Python",
-      "stars": 14912,
-      "period_stars": 907,
+      "stars": 15732,
+      "period_stars": 980,
       "period": "daily",
-      "snapshot_delta": 1109
+      "snapshot_delta": 820
     }
   ],
   "weekly": [
@@ -183,10 +183,10 @@
       "url": "https://github.com/backnotprop/plannotator",
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
-      "stars": 14778,
-      "period_stars": 2395,
+      "stars": 14963,
+      "period_stars": 1956,
       "period": "weekly",
-      "snapshot_delta": 263
+      "snapshot_delta": 185
     },
     {
       "rank": 2,
@@ -194,10 +194,10 @@
       "url": "https://github.com/google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
-      "stars": 12463,
-      "period_stars": 2572,
+      "stars": 12779,
+      "period_stars": 2626,
       "period": "weekly",
-      "snapshot_delta": 424
+      "snapshot_delta": 316
     },
     {
       "rank": 3,
@@ -205,10 +205,10 @@
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
-      "stars": 10662,
-      "period_stars": 2694,
+      "stars": 10905,
+      "period_stars": 2494,
       "period": "weekly",
-      "snapshot_delta": 362
+      "snapshot_delta": 243
     },
     {
       "rank": 4,
@@ -216,10 +216,10 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars": 55897,
-      "period_stars": 3015,
+      "stars": 56159,
+      "period_stars": 2638,
       "period": "weekly",
-      "snapshot_delta": 392
+      "snapshot_delta": 262
     },
     {
       "rank": 5,
@@ -227,10 +227,10 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": 73731,
-      "period_stars": 5448,
+      "stars": 74565,
+      "period_stars": 5369,
       "period": "weekly",
-      "snapshot_delta": 758
+      "snapshot_delta": 834
     },
     {
       "rank": 6,
@@ -238,10 +238,10 @@
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars": 59117,
-      "period_stars": 1581,
+      "stars": 59268,
+      "period_stars": 1258,
       "period": "weekly",
-      "snapshot_delta": 212
+      "snapshot_delta": 151
     },
     {
       "rank": 7,
@@ -249,10 +249,10 @@
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "language": "Python",
-      "stars": 8185,
-      "period_stars": 1903,
+      "stars": 8362,
+      "period_stars": 1504,
       "period": "weekly",
-      "snapshot_delta": 344
+      "snapshot_delta": 177
     },
     {
       "rank": 8,
@@ -260,10 +260,10 @@
       "url": "https://github.com/ag-ui-protocol/ag-ui",
       "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "language": "TypeScript",
-      "stars": 21463,
-      "period_stars": 2966,
+      "stars": 21636,
+      "period_stars": 1753,
       "period": "weekly",
-      "snapshot_delta": 208
+      "snapshot_delta": 173
     },
     {
       "rank": 9,
@@ -271,10 +271,10 @@
       "url": "https://github.com/meta/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
-      "stars": 32713,
-      "period_stars": 3165,
+      "stars": 32955,
+      "period_stars": 2890,
       "period": "weekly",
-      "snapshot_delta": 383
+      "snapshot_delta": 242
     },
     {
       "rank": 10,
@@ -282,10 +282,10 @@
       "url": "https://github.com/pookjw/HermesEnabler",
       "description": "Enable Hermès Watch Faces on any Apple Watch devices",
       "language": "Objective-C",
-      "stars": 2471,
-      "period_stars": 390,
+      "stars": 2500,
+      "period_stars": 328,
       "period": "weekly",
-      "snapshot_delta": 56
+      "snapshot_delta": 29
     },
     {
       "rank": 11,
@@ -293,10 +293,10 @@
       "url": "https://github.com/we-promise/sure",
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
-      "stars": 17668,
-      "period_stars": 1612,
+      "stars": 17826,
+      "period_stars": 1567,
       "period": "weekly",
-      "snapshot_delta": 263
+      "snapshot_delta": 158
     },
     {
       "rank": 12,
@@ -304,10 +304,10 @@
       "url": "https://github.com/dream-num/univer",
       "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "language": "TypeScript",
-      "stars": 31598,
-      "period_stars": 4324,
+      "stars": 31766,
+      "period_stars": 3278,
       "period": "weekly",
-      "snapshot_delta": 261
+      "snapshot_delta": 168
     },
     {
       "rank": 13,
@@ -315,10 +315,10 @@
       "url": "https://github.com/kajisho5/ffmpeg-skill",
       "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
       "language": "Python",
-      "stars": 10436,
-      "period_stars": 3891,
+      "stars": 10833,
+      "period_stars": 2993,
       "period": "weekly",
-      "snapshot_delta": 541
+      "snapshot_delta": 397
     }
   ],
   "repos": [
@@ -328,10 +328,10 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 325464,
-      "period_stars": 840,
+      "stars": 326083,
+      "period_stars": 1003,
       "period": "daily",
-      "snapshot_delta": 1055
+      "snapshot_delta": 619
     },
     {
       "rank": 6,
@@ -339,10 +339,10 @@
       "url": "https://github.com/firecrawl/firecrawl",
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "language": "TypeScript",
-      "stars": 208308,
-      "period_stars": 924,
+      "stars": 209271,
+      "period_stars": 991,
       "period": "daily",
-      "snapshot_delta": 1026
+      "snapshot_delta": 963
     },
     {
       "rank": 14,
@@ -350,10 +350,10 @@
       "url": "https://github.com/toeverything/AFFiNE",
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
       "language": "TypeScript",
-      "stars": 77614,
-      "period_stars": 595,
+      "stars": 78151,
+      "period_stars": 584,
       "period": "daily",
-      "snapshot_delta": 623
+      "snapshot_delta": 537
     },
     {
       "rank": 5,
@@ -361,10 +361,10 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": 73731,
-      "period_stars": 5448,
+      "stars": 74565,
+      "period_stars": 5369,
       "period": "weekly",
-      "snapshot_delta": 758
+      "snapshot_delta": 834
     },
     {
       "rank": 9,
@@ -372,10 +372,10 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars": 71329,
-      "period_stars": 620,
+      "stars": 72402,
+      "period_stars": 802,
       "period": "daily",
-      "snapshot_delta": 831
+      "snapshot_delta": 1073
     },
     {
       "rank": 4,
@@ -383,10 +383,10 @@
       "url": "https://github.com/jingyaogong/minimind",
       "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "language": "Python",
-      "stars": 69836,
-      "period_stars": 828,
+      "stars": 70561,
+      "period_stars": 727,
       "period": "daily",
-      "snapshot_delta": 836
+      "snapshot_delta": 725
     },
     {
       "rank": 3,
@@ -394,10 +394,10 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
-      "stars": 64128,
-      "period_stars": 790,
+      "stars": 65151,
+      "period_stars": 1074,
       "period": "daily",
-      "snapshot_delta": 1125
+      "snapshot_delta": 1023
     },
     {
       "rank": 6,
@@ -405,10 +405,10 @@
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars": 59117,
-      "period_stars": 1581,
+      "stars": 59268,
+      "period_stars": 1258,
       "period": "weekly",
-      "snapshot_delta": 212
+      "snapshot_delta": 151
     },
     {
       "rank": 4,
@@ -416,10 +416,10 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars": 55897,
-      "period_stars": 3015,
+      "stars": 56159,
+      "period_stars": 2638,
       "period": "weekly",
-      "snapshot_delta": 392
+      "snapshot_delta": 262
     },
     {
       "rank": 7,
@@ -427,10 +427,10 @@
       "url": "https://github.com/nginx/nginx",
       "description": "The official NGINX Open Source repository.",
       "language": "C",
-      "stars": 33110,
-      "period_stars": 174,
+      "stars": 33280,
+      "period_stars": 158,
       "period": "daily",
-      "snapshot_delta": 175
+      "snapshot_delta": 170
     },
     {
       "rank": 9,
@@ -438,10 +438,10 @@
       "url": "https://github.com/meta/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
-      "stars": 32713,
-      "period_stars": 3165,
+      "stars": 32955,
+      "period_stars": 2890,
       "period": "weekly",
-      "snapshot_delta": 383
+      "snapshot_delta": 242
     },
     {
       "rank": 12,
@@ -449,21 +449,10 @@
       "url": "https://github.com/dream-num/univer",
       "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "language": "TypeScript",
-      "stars": 31598,
-      "period_stars": 4324,
+      "stars": 31766,
+      "period_stars": 3278,
       "period": "weekly",
-      "snapshot_delta": 261
-    },
-    {
-      "rank": 8,
-      "name": "ag-ui-protocol/ag-ui",
-      "url": "https://github.com/ag-ui-protocol/ag-ui",
-      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-      "language": "TypeScript",
-      "stars": 21463,
-      "period_stars": 2966,
-      "period": "weekly",
-      "snapshot_delta": 208
+      "snapshot_delta": 168
     },
     {
       "rank": 1,
@@ -471,10 +460,21 @@
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
-      "stars": 20424,
-      "period_stars": 2029,
+      "stars": 21968,
+      "period_stars": 1826,
       "period": "daily",
-      "snapshot_delta": 2025
+      "snapshot_delta": 1544
+    },
+    {
+      "rank": 8,
+      "name": "ag-ui-protocol/ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "language": "TypeScript",
+      "stars": 21636,
+      "period_stars": 1753,
+      "period": "weekly",
+      "snapshot_delta": 173
     },
     {
       "rank": 5,
@@ -482,10 +482,10 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars": 18953,
-      "period_stars": 397,
+      "stars": 19352,
+      "period_stars": 360,
       "period": "daily",
-      "snapshot_delta": 383
+      "snapshot_delta": 399
     },
     {
       "rank": 11,
@@ -493,10 +493,10 @@
       "url": "https://github.com/we-promise/sure",
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
-      "stars": 17668,
-      "period_stars": 1612,
+      "stars": 17826,
+      "period_stars": 1567,
       "period": "weekly",
-      "snapshot_delta": 263
+      "snapshot_delta": 158
     },
     {
       "rank": 15,
@@ -504,21 +504,10 @@
       "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
       "description": "The only downloader you need. 下载器的集大成者。",
       "language": "Python",
-      "stars": 16824,
-      "period_stars": 1087,
+      "stars": 17706,
+      "period_stars": 1092,
       "period": "daily",
-      "snapshot_delta": 1228
-    },
-    {
-      "rank": 13,
-      "name": "Tracer-Cloud/opensre",
-      "url": "https://github.com/Tracer-Cloud/opensre",
-      "description": "The open-source agent for CI/CD reliability.",
-      "language": "Python",
-      "stars": 14969,
-      "period_stars": 436,
-      "period": "daily",
-      "snapshot_delta": 434
+      "snapshot_delta": 882
     },
     {
       "rank": 16,
@@ -526,10 +515,21 @@
       "url": "https://github.com/zhouxiaoka/autoclip",
       "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
       "language": "Python",
-      "stars": 14912,
-      "period_stars": 907,
+      "stars": 15732,
+      "period_stars": 980,
       "period": "daily",
-      "snapshot_delta": 1109
+      "snapshot_delta": 820
+    },
+    {
+      "rank": 13,
+      "name": "Tracer-Cloud/opensre",
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "description": "The open-source agent for CI/CD reliability.",
+      "language": "Python",
+      "stars": 15305,
+      "period_stars": 398,
+      "period": "daily",
+      "snapshot_delta": 336
     },
     {
       "rank": 1,
@@ -537,10 +537,10 @@
       "url": "https://github.com/backnotprop/plannotator",
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
-      "stars": 14778,
-      "period_stars": 2395,
+      "stars": 14963,
+      "period_stars": 1956,
       "period": "weekly",
-      "snapshot_delta": 263
+      "snapshot_delta": 185
     },
     {
       "rank": 2,
@@ -548,10 +548,10 @@
       "url": "https://github.com/google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
-      "stars": 12463,
-      "period_stars": 2572,
+      "stars": 12779,
+      "period_stars": 2626,
       "period": "weekly",
-      "snapshot_delta": 424
+      "snapshot_delta": 316
     },
     {
       "rank": 8,
@@ -559,10 +559,10 @@
       "url": "https://github.com/openvinotoolkit/openvino",
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "language": "C++",
-      "stars": 12356,
-      "period_stars": 184,
+      "stars": 12535,
+      "period_stars": 185,
       "period": "daily",
-      "snapshot_delta": 203
+      "snapshot_delta": 179
     },
     {
       "rank": 3,
@@ -570,10 +570,10 @@
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
-      "stars": 10662,
-      "period_stars": 2694,
+      "stars": 10905,
+      "period_stars": 2494,
       "period": "weekly",
-      "snapshot_delta": 362
+      "snapshot_delta": 243
     },
     {
       "rank": 13,
@@ -581,10 +581,10 @@
       "url": "https://github.com/kajisho5/ffmpeg-skill",
       "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
       "language": "Python",
-      "stars": 10436,
-      "period_stars": 3891,
+      "stars": 10833,
+      "period_stars": 2993,
       "period": "weekly",
-      "snapshot_delta": 541
+      "snapshot_delta": 397
     },
     {
       "rank": 7,
@@ -592,10 +592,10 @@
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "language": "Python",
-      "stars": 8185,
-      "period_stars": 1903,
+      "stars": 8362,
+      "period_stars": 1504,
       "period": "weekly",
-      "snapshot_delta": 344
+      "snapshot_delta": 177
     },
     {
       "rank": 12,
@@ -603,10 +603,10 @@
       "url": "https://github.com/mjmirza/app-store-compliance",
       "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "language": "Shell",
-      "stars": 5307,
-      "period_stars": 761,
+      "stars": 6084,
+      "period_stars": 928,
       "period": "daily",
-      "snapshot_delta": 1072
+      "snapshot_delta": 777
     },
     {
       "rank": 10,
@@ -614,10 +614,10 @@
       "url": "https://github.com/pookjw/HermesEnabler",
       "description": "Enable Hermès Watch Faces on any Apple Watch devices",
       "language": "Objective-C",
-      "stars": 2471,
-      "period_stars": 390,
+      "stars": 2500,
+      "period_stars": 328,
       "period": "weekly",
-      "snapshot_delta": 56
+      "snapshot_delta": 29
     }
   ]
 }
